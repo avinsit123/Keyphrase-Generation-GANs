@@ -1,0 +1,137 @@
+06/27/2019 12:41:19 [INFO] train: Parameters:
+06/27/2019 12:41:19 [INFO] train: vocab_size    :    50002
+06/27/2019 12:41:19 [INFO] train: max_unk_words    :    1000
+06/27/2019 12:41:19 [INFO] train: words_min_frequency    :    0
+06/27/2019 12:41:19 [INFO] train: dynamic_dict    :    True
+06/27/2019 12:41:19 [INFO] train: word_vec_size    :    100
+06/27/2019 12:41:19 [INFO] train: share_embeddings    :    True
+06/27/2019 12:41:19 [INFO] train: use_target_encoder    :    False
+06/27/2019 12:41:19 [INFO] train: encoder_type    :    rnn
+06/27/2019 12:41:19 [INFO] train: decoder_type    :    rnn
+06/27/2019 12:41:19 [INFO] train: enc_layers    :    1
+06/27/2019 12:41:19 [INFO] train: dec_layers    :    1
+06/27/2019 12:41:19 [INFO] train: encoder_size    :    150
+06/27/2019 12:41:19 [INFO] train: decoder_size    :    300
+06/27/2019 12:41:19 [INFO] train: target_encoder_size    :    64
+06/27/2019 12:41:19 [INFO] train: source_representation_queue_size    :    128
+06/27/2019 12:41:19 [INFO] train: source_representation_sample_size    :    32
+06/27/2019 12:41:19 [INFO] train: dropout    :    0.1
+06/27/2019 12:41:19 [INFO] train: bidirectional    :    True
+06/27/2019 12:41:19 [INFO] train: bridge    :    copy
+06/27/2019 12:41:19 [INFO] train: attn_mode    :    concat
+06/27/2019 12:41:19 [INFO] train: copy_attention    :    True
+06/27/2019 12:41:19 [INFO] train: coverage_attn    :    False
+06/27/2019 12:41:19 [INFO] train: review_attn    :    False
+06/27/2019 12:41:19 [INFO] train: lambda_coverage    :    1
+06/27/2019 12:41:19 [INFO] train: coverage_loss    :    False
+06/27/2019 12:41:19 [INFO] train: orthogonal_loss    :    False
+06/27/2019 12:41:19 [INFO] train: lambda_orthogonal    :    0.03
+06/27/2019 12:41:19 [INFO] train: lambda_target_encoder    :    0.03
+06/27/2019 12:41:19 [INFO] train: separate_present_absent    :    False
+06/27/2019 12:41:19 [INFO] train: manager_mode    :    1
+06/27/2019 12:41:19 [INFO] train: goal_vector_size    :    16
+06/27/2019 12:41:19 [INFO] train: goal_vector_mode    :    0
+06/27/2019 12:41:19 [INFO] train: title_guided    :    False
+06/27/2019 12:41:19 [INFO] train: data    :    data/kp20k_tg_sorted/
+06/27/2019 12:41:19 [INFO] train: vocab    :    data/kp20k_tg_sorted/
+06/27/2019 12:41:19 [INFO] train: custom_data_filename_suffix    :    False
+06/27/2019 12:41:19 [INFO] train: custom_vocab_filename_suffix    :    False
+06/27/2019 12:41:19 [INFO] train: vocab_filename_suffix    :    
+06/27/2019 12:41:19 [INFO] train: data_filename_suffix    :    
+06/27/2019 12:41:19 [INFO] train: save_model    :    model
+06/27/2019 12:41:19 [INFO] train: train_from    :    
+06/27/2019 12:41:19 [INFO] train: gpuid    :    1
+06/27/2019 12:41:19 [INFO] train: seed    :    9527
+06/27/2019 12:41:19 [INFO] train: epochs    :    2
+06/27/2019 12:41:19 [INFO] train: start_epoch    :    1
+06/27/2019 12:41:19 [INFO] train: param_init    :    0.1
+06/27/2019 12:41:19 [INFO] train: pre_word_vecs_enc    :    None
+06/27/2019 12:41:19 [INFO] train: pre_word_vecs_dec    :    None
+06/27/2019 12:41:19 [INFO] train: fix_word_vecs_enc    :    False
+06/27/2019 12:41:19 [INFO] train: fix_word_vecs_dec    :    False
+06/27/2019 12:41:19 [INFO] train: batch_size    :    32
+06/27/2019 12:41:19 [INFO] train: batch_workers    :    4
+06/27/2019 12:41:19 [INFO] train: optim    :    adam
+06/27/2019 12:41:19 [INFO] train: max_grad_norm    :    1
+06/27/2019 12:41:19 [INFO] train: truncated_decoder    :    0
+06/27/2019 12:41:19 [INFO] train: loss_normalization    :    tokens
+06/27/2019 12:41:19 [INFO] train: train_ml    :    True
+06/27/2019 12:41:19 [INFO] train: train_rl    :    False
+06/27/2019 12:41:19 [INFO] train: max_sample_length    :    6
+06/27/2019 12:41:19 [INFO] train: max_length    :    6
+06/27/2019 12:41:19 [INFO] train: topk    :    M
+06/27/2019 12:41:19 [INFO] train: reward_type    :    0
+06/27/2019 12:41:19 [INFO] train: match_type    :    exact
+06/27/2019 12:41:19 [INFO] train: pretrained_model    :    
+06/27/2019 12:41:19 [INFO] train: reward_shaping    :    False
+06/27/2019 12:41:19 [INFO] train: baseline    :    self
+06/27/2019 12:41:19 [INFO] train: mc_rollouts    :    False
+06/27/2019 12:41:19 [INFO] train: num_rollouts    :    3
+06/27/2019 12:41:19 [INFO] train: delimiter_type    :    0
+06/27/2019 12:41:19 [INFO] train: one2many    :    True
+06/27/2019 12:41:19 [INFO] train: one2many_mode    :    1
+06/27/2019 12:41:19 [INFO] train: num_predictions    :    1
+06/27/2019 12:41:19 [INFO] train: init_perturb_std    :    0
+06/27/2019 12:41:19 [INFO] train: final_perturb_std    :    0
+06/27/2019 12:41:19 [INFO] train: perturb_decay_mode    :    1
+06/27/2019 12:41:19 [INFO] train: perturb_decay_factor    :    0.0001
+06/27/2019 12:41:19 [INFO] train: perturb_baseline    :    False
+06/27/2019 12:41:19 [INFO] train: regularization_type    :    0
+06/27/2019 12:41:19 [INFO] train: regularization_factor    :    0.0
+06/27/2019 12:41:19 [INFO] train: replace_unk    :    False
+06/27/2019 12:41:19 [INFO] train: remove_src_eos    :    False
+06/27/2019 12:41:19 [INFO] train: must_teacher_forcing    :    False
+06/27/2019 12:41:19 [INFO] train: teacher_forcing_ratio    :    0
+06/27/2019 12:41:19 [INFO] train: scheduled_sampling    :    False
+06/27/2019 12:41:19 [INFO] train: scheduled_sampling_batches    :    10000
+06/27/2019 12:41:19 [INFO] train: learning_rate    :    0.001
+06/27/2019 12:41:19 [INFO] train: learning_rate_rl    :    5e-05
+06/27/2019 12:41:19 [INFO] train: learning_rate_decay_rl    :    False
+06/27/2019 12:41:19 [INFO] train: learning_rate_decay    :    0.5
+06/27/2019 12:41:19 [INFO] train: start_decay_at    :    8
+06/27/2019 12:41:19 [INFO] train: start_checkpoint_at    :    2
+06/27/2019 12:41:19 [INFO] train: decay_method    :    
+06/27/2019 12:41:19 [INFO] train: warmup_steps    :    4000
+06/27/2019 12:41:19 [INFO] train: checkpoint_interval    :    4000
+06/27/2019 12:41:19 [INFO] train: disable_early_stop_rl    :    False
+06/27/2019 12:41:19 [INFO] train: early_stop_tolerance    :    4
+06/27/2019 12:41:19 [INFO] train: timemark    :    20190627-124119
+06/27/2019 12:41:19 [INFO] train: report_every    :    10
+06/27/2019 12:41:19 [INFO] train: exp    :    kp20k.ml.one2many.cat.copy.bi-directional
+06/27/2019 12:41:19 [INFO] train: exp_path    :    exp/kp20k.ml.one2many.cat.copy.bi-directional.20190627-124119
+06/27/2019 12:41:19 [INFO] train: model_path    :    model/kp20k.ml.one2many.cat.copy.bi-directional.20190627-124119
+06/27/2019 12:41:19 [INFO] train: delimiter_word    :    <sep>
+06/27/2019 12:41:19 [INFO] train: input_feeding    :    False
+06/27/2019 12:41:19 [INFO] train: copy_input_feeding    :    False
+06/27/2019 12:41:19 [INFO] train: device    :    cuda:1
+06/27/2019 12:41:19 [INFO] data_loader: Loading vocab from disk: data/kp20k_tg_sorted/
+06/27/2019 12:41:19 [INFO] data_loader: #(vocab)=344733
+06/27/2019 12:41:19 [INFO] data_loader: #(vocab used)=50002
+06/27/2019 12:41:19 [INFO] data_loader: Loading train and validate data from 'data/kp20k_tg_sorted/'
+06/27/2019 12:42:10 [INFO] data_loader: #(train data size: #(batch)=15357
+06/27/2019 12:42:11 [INFO] data_loader: #(valid data size: #(batch)=625
+06/27/2019 12:42:13 [INFO] train: Time for loading the data: 53.8
+06/27/2019 12:42:13 [INFO] train: ======================  Model Parameters  =========================
+06/27/2019 12:42:13 [INFO] train: Training a seq2seq model with copy mechanism
+06/27/2019 12:42:16 [INFO] train_ml: ======================  Start Training  =========================
+06/27/2019 12:42:18 [ERROR] train: message
+Traceback (most recent call last):
+  File "train.py", line 164, in main
+    train_ml.train_model(model, optimizer_ml, optimizer_rl, criterion, train_data_loader, valid_data_loader, opt)
+  File "/dev/shm/avinash/keyphrase-generation-rl/train_ml.py", line 60, in train_model
+    for batch_i, batch in enumerate(train_data_loader):
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 582, in __next__
+    return self._process_next_batch(batch)
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/dataloader.py", line 608, in _process_next_batch
+    raise batch.exc_type(batch.exc_msg)
+RuntimeError: Traceback (most recent call last):
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/_utils/pin_memory.py", line 41, in _pin_memory_loop
+    batch = pin_memory_batch(batch)
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/_utils/pin_memory.py", line 58, in pin_memory_batch
+    return [pin_memory_batch(sample) for sample in batch]
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/_utils/pin_memory.py", line 58, in <listcomp>
+    return [pin_memory_batch(sample) for sample in batch]
+  File "/dev/shm/avinash/mypython/lib/python3.6/site-packages/torch/utils/data/_utils/pin_memory.py", line 50, in pin_memory_batch
+    return batch.pin_memory()
+RuntimeError: cuda runtime error (2) : out of memory at /pytorch/aten/src/THC/THCCachingHostAllocator.cpp:265
+
