@@ -8,9 +8,10 @@ Created on Sun Jul  7 18:36:18 2019
 
 from torch import nn as nn
 import torch
+import sys
 
 class Discriminator(nn.Module):
-    def __init__(self,vocab_size,embedding_dim,hidden_dim,pad_idx,bidirectional=False):
+    def __init__(self,vocab_size,embedding_dim,hidden_dim,n_layers,pad_idx,bidirectional=False):
         super(Discriminator,self).__init__()
         self.pad_idx = pad_idx
         self.vocab_size = vocab_size
@@ -21,19 +22,23 @@ class Discriminator(nn.Module):
         self.RNN = nn.GRU(embedding_dim,hidden_dim,n_layers)
         self.embedding = nn.Embedding(vocab_size,embedding_dim)
         self.Linear = nn.Linear(hidden_dim,1)
+        self.sigmoid = nn.Sigmoid()
         
-    def padded_all(self,target,total_kphs,pad_id):
+    def padded_all(self,target,total_kphs,pad_id,devices):
         max_cols = max([len(row) for row in target])
         max_rows = total_kphs
-        padded = [batch + [pad_id] * (max_rows - len(batch)) for batch in target]
-        padded = torch.tensor([row + [pad_id] * (max_cols - len(row)) for row in padded])
+        #padded = [[pad_id] * (max_rows - len(batch)) for batch in target]
+#        print("sDAS:",[[pad_id] * (max_rows - len(batch)) for batch in target])
+        #print("adsgf:",padded)
+        padded = torch.tensor([row + [pad_id] * (max_cols - len(row)) for row in target])
+       # sys.exit()
         if torch.cuda.is_available():
-            padded = padded.to("cuda:1")
+            padded = padded.to(devices)
         return padded
     
-    def forward(self,kph,target_type):
-        total_len = len(kph)
-        kph = self.padded_all(kph,total_kphs,self.pad_idx)
+    def forward(self,kph,target_type,devices="cuda:1"):
+        total_kphs = len(kph)
+        kph = self.padded_all(kph,total_kphs,self.pad_idx,devices)
         kph = kph.long()
         x = self.embedding(kph)
         x = x.permute(1,0,2)
@@ -46,13 +51,15 @@ class Discriminator(nn.Module):
         if target_type==1:
             results = torch.ones(total_len)*0.9
             if torch.cuda.is_available():
-                results = results.to("cuda:1")
+                results = results.to(devices)
         else:
             results = torch.zeros(total_len)
             if torch.cuda.is_available():
-                results = results.to("cuda:1")
+                results = results.to(devices)
         criterion = nn.BCEWithLogitsLoss()
         loss = criterion(output,results)
-        return loss
-        
+        #print("deebg is:",self.sigmoid(output))
+        rewards = self.sigmoid(output)
+        return loss,rewards
+     
         

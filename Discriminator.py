@@ -204,7 +204,7 @@ class S_RNN(nn.Module):
  #   real_labels = torch.from_numpy(np.random.uniform(0.7, 1.2, size=(BATCH_SIZE))).float().to(DEVICE)
 
         
-
+devices = "cuda:3"
 
         
         
@@ -238,7 +238,7 @@ class Discriminator(S_RNN):
         #print(padded)
         #padded = padded.view(-1, max_rows, max_cols)
         #padded 
-        padded = padded.to("cuda:1")
+        padded = padded.to(devices)
         return padded
         
     def transform_src(self,src,total_kphs):
@@ -247,7 +247,7 @@ class Discriminator(S_RNN):
 
         
         src = src.reshape(total_kphs,-1)
-        src = src.to("cuda:1")
+        src = src.to(devices)
         return src        
         
     def forward(self,src,kph):
@@ -291,23 +291,23 @@ class Discriminator(S_RNN):
         src = self.transform_src(src,total_kphs)
         #total_kphs = len(kph)
         kph = self.padded_all(kph,total_kphs,self.pad_idx)
-        #src,kph = torch.Tensor(src),torch.Tensor(kph)
         src,kph = src.long(),kph.long()
         output = self.forward(src,kph)
         total_len = output.size(0)
         if target_type==1:
             results = torch.ones(total_len)*0.9
             if torch.cuda.is_available():
-                results = results.to("cuda:1")
+                results = results.to(devices)
         else:
             results = torch.zeros(total_len)
             if torch.cuda.is_available():
-                results = results.to("cuda:1")
-        #print(output)
+                results = results.to(devices)
         criterion = nn.BCEWithLogitsLoss()
         avg_outputs = torch.mean(self.sigmoid(output))
         loss = criterion(output,results)
         return avg_outputs,loss
+    
+
     
 
     

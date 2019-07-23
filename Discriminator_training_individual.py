@@ -43,13 +43,11 @@ import time
 import numpy as np
 import random
 from torch import device 
-from Discriminator import Discriminator
+from Discriminator_individual import Discriminator
 
 #####################################################################################################
-opt = argparse.Namespace(attn_mode='concat', baseline='self', batch_size=32, batch_workers=4, bidirectional=True, bridge='copy', checkpoint_interval=4000, copy_attention=True, copy_input_feeding=False, coverage_attn=False, coverage_loss=False, custom_data_filename_suffix=False, custom_vocab_filename_suffix=False, data='data/kp20k_tg_sorted/', data_filename_suffix='', dec_layers=1, decay_method='', decoder_size=300, decoder_type='rnn', delimiter_type=0, delimiter_word='<sep>', device=device(type='cuda', index=3
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ), disable_early_stop_rl=False, dropout=0.1, dynamic_dict=True, early_stop_tolerance=4, enc_layers=1, encoder_size=150, encoder_type='rnn', epochs=20, exp='kp20k.rl.one2many.cat.copy.bi-directional', exp_path='exp/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', final_perturb_std=0, fix_word_vecs_dec=False, fix_word_vecs_enc=False, goal_vector_mode=0, goal_vector_size=16, gpuid=3, init_perturb_std=0, input_feeding=False, lambda_coverage=1, lambda_orthogonal=0.03, lambda_target_encoder=0.03, learning_rate=0.001, learning_rate_decay=0.5, learning_rate_decay_rl=False, learning_rate_rl=5e-05, loss_normalization='tokens', manager_mode=1, match_type='exact', max_grad_norm=1, max_length=60, max_sample_length=6, max_unk_words=1000, mc_rollouts=False, model_path='model/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', must_teacher_forcing=False, num_predictions=1, num_rollouts=3, one2many=True, one2many_mode=1, optim='adam', orthogonal_loss=False, param_init=0.1, perturb_baseline=False, perturb_decay_factor=0.0001, perturb_decay_mode=1, pre_word_vecs_dec=None, pre_word_vecs_enc=None, pretrained_model='model/kp20k.ml.one2many.cat.copy.bi-directional.20190628-114655/kp20k.ml.one2many.cat.copy.bi-directional.epoch=2.batch=54573.total_batch=116000.model', regularization_factor=0.0, regularization_type=0, remove_src_eos=False, replace_unk=True, report_every=10, review_attn=False, reward_shaping=False, reward_type=7, save_model='model', scheduled_sampling=False, scheduled_sampling_batches=10000, seed=9527, separate_present_absent=True, share_embeddings=True, source_representation_queue_size=128, source_representation_sample_size=32, start_checkpoint_at=2, start_decay_at=8, start_epoch=1, target_encoder_size=64, teacher_forcing_ratio=0, timemark='20190701-192604', title_guided=False, topk='G', train_from='', train_ml=False, train_rl=True, truncated_decoder=0, use_target_encoder=False, vocab='data/kp20k_separated/', vocab_filename_suffix='', vocab_size=100002, warmup_steps=4000, word_vec_size=100, words_min_frequency=0)
-devices = "cuda:3"
+opt = argparse.Namespace(attn_mode='concat', baseline='self', batch_size=32, batch_workers=4, bidirectional=True, bridge='copy', checkpoint_interval=4000, copy_attention=True, copy_input_feeding=False, coverage_attn=False, coverage_loss=False, custom_data_filename_suffix=False, custom_vocab_filename_suffix=False, data='data/kp20k_tg_sorted/', data_filename_suffix='', dec_layers=1, decay_method='', decoder_size=300, decoder_type='rnn', delimiter_type=0, delimiter_word='<sep>', device=device(type='cuda', index=1), disable_early_stop_rl=False, dropout=0.1, dynamic_dict=True, early_stop_tolerance=4, enc_layers=1, encoder_size=150, encoder_type='rnn', epochs=20, exp='kp20k.rl.one2many.cat.copy.bi-directional', exp_path='exp/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', final_perturb_std=0, fix_word_vecs_dec=False, fix_word_vecs_enc=False, goal_vector_mode=0, goal_vector_size=16, gpuid=1, init_perturb_std=0, input_feeding=False, lambda_coverage=1, lambda_orthogonal=0.03, lambda_target_encoder=0.03, learning_rate=0.001, learning_rate_decay=0.5, learning_rate_decay_rl=False, learning_rate_rl=5e-05, loss_normalization='tokens', manager_mode=1, match_type='exact', max_grad_norm=1, max_length=60, max_sample_length=6, max_unk_words=1000, mc_rollouts=False, model_path='model/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', must_teacher_forcing=False, num_predictions=1, num_rollouts=3, one2many=True, one2many_mode=1, optim='adam', orthogonal_loss=False, param_init=0.1, perturb_baseline=False, perturb_decay_factor=0.0001, perturb_decay_mode=1, pre_word_vecs_dec=None, pre_word_vecs_enc=None, pretrained_model='model/kp20k.ml.one2many.cat.copy.bi-directional.20190628-114655/kp20k.ml.one2many.cat.copy.bi-directional.epoch=2.batch=54573.total_batch=116000.model', regularization_factor=0.0, regularization_type=0, remove_src_eos=False, replace_unk=True, report_every=10, review_attn=False, reward_shaping=False, reward_type=7, save_model='model', scheduled_sampling=False, scheduled_sampling_batches=10000, seed=9527, separate_present_absent=True, share_embeddings=True, source_representation_queue_size=128, source_representation_sample_size=32, start_checkpoint_at=2, start_decay_at=8, start_epoch=1, target_encoder_size=64, teacher_forcing_ratio=0, timemark='20190701-192604', title_guided=False, topk='G', train_from='', train_ml=False, train_rl=True, truncated_decoder=0, use_target_encoder=False, vocab='data/kp20k_separated/', vocab_filename_suffix='', vocab_size=100002, warmup_steps=4000, word_vec_size=100, words_min_frequency=0)
+
             
 ##### TUNE HYPERPARAMETERS ##############
 hidden_dim = 150
@@ -65,14 +63,10 @@ def train_one_batch(D_model,one2many_batch, generator, opt,perturb_std):
         num_predictions = opt.num_predictions
     else:
         num_predictions = 1
-    
-
+        
     src = src.to(opt.device)
     src_mask = src_mask.to(opt.device)
     src_oov = src_oov.to(opt.device)
-#    src = src.cuda()
-#    src_mask = src_mask.cuda()
-#    src_oov = src_oov.cuda()
     # trg = trg.to(opt.device)
     # trg_mask = trg_mask.to(opt.device)
     # trg_oov = trg_oov.to(opt.device)
@@ -147,42 +141,32 @@ def train_one_batch(D_model,one2many_batch, generator, opt,perturb_std):
 #            continue
         if (len(target_str_list)==0 or len(pred_str_list)==0):
             continue
-            
-        real_rewards,abstract_loss_real = D_model.train_one_abstract(src_list,target_str_list,1)
-        fake_rewards,abstract_loss_fake = D_model.train_one_abstract(src_list,pred_str_list,0)
-
-        
+#            
+#        real_rewards,abstract_loss_real = D_model.train_one_abstract(src_list,target_str_list,1)
+#        fake_rewards,abstract_loss_fake = D_model.train_one_abstract(src_list,pred_str_list,0)
+        abstract_loss_real,real_rewards = D_model.forward(target_str_list,1)
+        abstract_loss_fake,fake_rewards = D_model.forward(pred_str_list,0)
         total_abstract_loss+= abstract_loss_real + abstract_loss_fake
     avg_batch_loss = (total_abstract_loss/batch_mine)
-    avg_real = real_rewards
-    avg_fake = fake_rewards
-    #print(avg_batch_loss)
-    #sys.exit()
-#             
-#            abstract_loss_real = train_one_abstract(src_list,pred_str_list,1,batch_size)
-#            abstract_loss_fake = train_one_abstract(src_list,pred_str_list,0,batch_size)
-#            total_abstract_loss+= abstract_loss_real + abstarct_loss_fake
-#     
-#    avg_batch_loss = (total_abstract_loss/batch_size)
-#
+    avg_real = torch.mean(real_rewards)
+    avg_fake = torch.mean(fake_rewards)
     return avg_batch_loss,avg_real,avg_fake
 
 def main():
-    #print("agsnf efnghrrqthg")
+    print("agsnf efnghrrqthg")
     clip = 5
     start_time = time.time()
     train_data_loader, valid_data_loader, word2idx, idx2word, vocab = load_data_and_vocab(opt, load_train=True)
     load_data_time = time_since(start_time)
     print(idx2word[5])
+    
     logging.info('Time for loading the data: %.1f' % load_data_time)
     
     model = Seq2SeqModel(opt)
     #model = model.device()
     #print("The Device is",opt.gpuid)
-    #model = model.to(devices)
-    model = model.to(devices)
+    model = model.to("cuda:1")
     
-   # model.load_state_dict(torch.load("model/kp20k.ml.one2many.cat.copy.bi-directional.20190628-114655/kp20k.ml.one2many.cat.copy.bi-directional.epoch=2.batch=54573.total_batch=116000.model"))
     model.load_state_dict(torch.load("model/kp20k.ml.one2many.cat.copy.bi-directional.20190715-132016/kp20k.ml.one2many.cat.copy.bi-directional.epoch=3.batch=26098.total_batch=108000.model"))
     generator = SequenceGenerator(model,
                                   bos_idx=opt.word2idx[pykp.io.BOS_WORD],
@@ -204,23 +188,24 @@ def main():
     
     D_model = Discriminator(opt.vocab_size,embedding_dim,hidden_dim,n_layers,opt.word2idx[pykp.io.PAD_WORD])
     
+    D_model.load_state_dict(torch.load("Discriminator_checkpts/Checkpoint_Individual_Training(tg_guided)_5.pth.tar"))
     print("The Discriminator statistics are ",D_model)
     
     if torch.cuda.is_available():
-        D_model = D_model.to(devices)
+        D_model = D_model.to("cuda:1")
     
     D_model.train()
     
     D_optimizer = torch.optim.Adam(D_model.parameters(),lr=0.001)
     
-    print("gdsf")
-    total_epochs = 5
+    total_epochs = 10
     for epoch in range(total_epochs):
         
         total_batch = 0
         print("Starting with epoch:",epoch)
         for batch_i, batch in enumerate(train_data_loader):
             total_batch+=1
+            
             D_optimizer.zero_grad()
             
             if perturb_decay_mode == 0:  # do not decay
@@ -232,13 +217,6 @@ def main():
 
 
             avg_batch_loss,real_r,fake_r = train_one_batch(D_model,batch,generator,opt,perturb_std)
-#            print("Currently loss is",avg_batch_loss.item())
-#            print("Currently real loss is",real_r.item())
-#            print("Currently fake loss is",fake_r.item())
-#            state_dfs = D_model.state_dict()
-#            torch.save(state_dfs,"Checkpoint_" + str(epoch) + ".pth.tar")
-#
-            
             if batch_i%350==0:
                 print("Currently loss is",avg_batch_loss.item())
                 print("Currently real loss is",real_r.item())
@@ -246,20 +224,18 @@ def main():
                 
                 print("Saving the file ...............----------->>>>>")        
                 state_dfs = D_model.state_dict()
-                torch.save(state_dfs,"Discriminator_checkpts/D_model_combined" + str(epoch) + ".pth.tar")
+                torch.save(state_dfs,"Discriminator_checkpts/Checkpoint_Individual_Training(tg_guided)_" + str(6+epoch) + ".pth.tar")
 
             
-            
+           # sys.exit()
             torch.nn.utils.clip_grad_norm_(D_model.parameters(), clip)
             avg_batch_loss.backward()
             D_optimizer.step()
-            #sys.exit()
             
-            #sys.exit()
         
         print("Saving the file ...............----------->>>>>")        
         state_dfs = D_model.state_dict()
-        torch.save(state_dfs,"Discriminator_checkpts/D_model_combined" + str(epoch) + ".pth.tar")
+        torch.save(state_dfs,"Discriminator_checkpts/Checkpoint_Individual_Training(tg_guided)_" + str(6+epoch) + ".pth.tar")
 
 ######################################            
             
