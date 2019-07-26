@@ -1,0 +1,100 @@
+grid service discovery;uddi;peer to peer;distributed hash table
+self adaptive;grid;performance;measurement;algorithms;distributed computing;grid computing
+intra flow loss;volp;loss concealment;distributed systems;speech coding;packet loss recovery
+content management;rich media;spectrum architecture;distributed systems;spectrum sharing;information retrieval
+operation context;context;operational transformation;collaborative applications;algorithm;design;experimentation;standardization;systems;theory;distributed systems
+decentralized adaptive services;virtualisation;grid computing;distributed systems;systems;interoperability;distributed applications
+sensor deployment;target detection;distributed systems
+voip;virtual conferencing;audio service;conference server
+malware;swarm worms;emergent intelligence;swarm intelligence
+service interface;modular network protocols;service based protocols;java;distributed systems;service oriented architecture
+live data center;migration;context aware;virtualization;replication;internet;context awareness
+runtime metrics;middleware;mobile applications;worst case performance;mobile object system
+dynamic adjustment;replica selection;data grid;data transfer completion time;data sharing;distributed systems
+localization;wireless sensor networks;distributed systems;sensor networks;fault tolerance;performance evaluation
+grid;sequence comparison;blast;grid computing
+<pad>;g grid;molecular mechanics;<bos>;molecular dynamics
+overlay networks;ip multicast;high bandwidth data distribution;distributed algorithms;performance evaluation
+peer to peer;file sharing;distributed systems
+object storage;strong consistency;transactional caching;collaborative systems;distributed systems
+rewards;negotiation;context aware computing
+pairwise key establishment;<unk> networks;wireless sensor networks
+encryption;publish subscribe;security;cloud computing
+peer to peer;receiver driven;gossiping;overlay;distributed;systems;quality;measurement
+edge indexing;virtual environments;spatial database;virtual reality;spatial databases
+resource allocation;combinatorial auctions;distributed systems
+personalization;query expansion;web based services;information retrieval
+query contexts;information retrieval;user profile;query specific contexts
+personal information management;task based evaluation
+information distillation;temporally ordered documents;ndcg metric;utility optimization;adaptive information distillation
+user modeling;recommendation systems;bayesian hierarchical model;user feedback;bayesian inference
+relevance judgments;test collections;information retrieval
+web search log;search results;clustering search results;search process general terms
+regularization;document clustering;local and global regularization;eigenvalue decomposition
+laplacian optimal design;<pad> image retrieval;relevance feedback;image retrieval;image
+result snippets;web search;document compression;document reordering;query processing
+caption;clickthrough;web search;search;experimentation;measurement;information retrieval
+popular destinations;web search;information search and retrieval;information retrieval
+caching;search engines;web search engines;performance evaluation
+inverted index;correctness guarantee;performance;algorithms;experimentation;measurement
+topic segmentation;topic detection;multiple documents;mutual information;weighted mutual information;multi document segmentation
+feature trajectories;event detection;aperiodic words;aperiodic analysis
+event detection;indexing tree;named entity;news indexing tree;linguistic data consortium
+classification;rare queries;web search;search engine;query processing
+search engine;information search and retrieval;information retrieval
+term feedback;information retrieval;language models
+support vector method;average precision;<pad>;<unk>
+pseudo relevance feedback;information retrieval;information
+latent concept expansion;markov random fields;query expansion
+poisson query generation;information retrieval;multinomial model;background modeling;subject descriptors
+definitional question answering;interestingness;human factors;natural language processing
+bdi agents;agent programming languages
+negotiation;multi agent systems
+self organising agent;resource allocation;distributed multiagent systems
+dynamic semantics;agent communication languages;grounding semantics;ongoing interaction;subject descriptors
+commitment;extortion;pareto efficiency;theory;<unk>
+commitments;temporal linear logic;temporal logic
+multi agent;incremental learning;artificial intelligence
+agent s internal state;artificial intelligence;artificial
+sparse data;multi agent system;coordination autonomy;user modeling
+reinforcement learning;distributed search algorithm;peer to peer;information retrieval;distributed search
+information searching and sharing;dynamic networks;information provision;information sharing;information
+bidding agents;advertisement selection;public displays;bluetooth;probabilistic models
+collaboration;satellite swarm;negotiation;coordination;artificial intelligence
+bidding;auctions;perfectly substitutable goods;poisson distribution;multiagent systems;multi agent systems
+network flow;preference aggregation;multiagent systems;power index
+market barriers;communication networks;satisficing;artificial intelligence;information theory
+cognitive load modeling;shared mental models;human agent collaboration;multiagent systems
+sequential decision making;two sided economic search;distributed equilibrium;parallel economic search
+agent architecture;rescheduling;temporal uncertainty;distributed systems
+social networks;task allocation;distributed computing
+judgment aggregation;modal logic;artificial intelligence;knowledge representation
+bounded rational agents;zero sum interactions;multiagent systems;artificial intelligence
+institutional norms;organizational structures;artificial intelligence;multiagent systems;distributed systems
+conflict;inconsistency;virtual organizations;multi agent systems
+multi agent systems;conflict resolution;distributed artificial intelligence;distributed systems
+trade reduction;incentive compatibility;individual rationality;distributed markets;supply chain management
+vcg payments;bailey <pad> mechanism;subject descriptors
+budget optimization;advertising auctions;inapproximability
+revenue analysis;ranking rules;keyword auctions;monte carlo simulation
+compatibility;diffusion of technologies;social networks;instant messenger
+strong equilibrium;cost sharing connection games;price of anarchy;general connection games;single source games;game theory;nash equilibrium
+distributed information market;path toward equilibrium;threshold security;distributed systems;systems;computer science;economics;theory
+user behavior;online feedback reporting;user bias;tripadvisor;<unk>
+trading networks;price setting;nash equilibrium;game theory
+combinatorial auctions;hypertree decomposition;graph theory
+graphical games;nash equilibrium;best response policy;fptas
+generalized value decomposition;structured multiattribute auctions;cardinal utility representation;generalized additive structure;structured auctions
+mechanism design;multi dimensional scheduling;truthful mechanisms;algorithmic mechanism design
+position auctions;electronic commerce;artificial intelligence
+clearing;kidney exchange;incremental problem;column generation
+information markets;projection game;spherical scoring rule;strategic planning
+betting;auctioneer;arbitrage;pair betting;<unk>
+vertex cover;tamir;<unk>
+betting boolean style;securities market;co np complete;p <digit> complete;divisible case;matching;subject descriptors;<unk>
+internet;algorithmic mechanism design;game theory;social networks
+revealed preference;learning algorithm;rationalizable;<eos> s theorem;subject descriptors;<unk> <digit>;<unk>
+multi unit auctions;approximation algorithms;vickrey clarke groves mechanism
+mechanism design;social choice rule;signaling game;public good models;social networks
+multiagent systems;leadership;commitment;stackelberg games;game theory
+graphical games;trees;nash equilibrium;pathwidth;ppad;computational complexity
