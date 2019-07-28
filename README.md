@@ -15,5 +15,5 @@ Contains code for generating key phrases using GANs
 
 <li> <b> RLtraining1_individual.py : </b> The reward is calculated as taking reward from the Discriminator_individual only </li>
 
-<li> <b> Discriminator.py : </b> a Discriminator which assigns a score to keyphrase indicating whether it can be assigned to an abstract </li>
+<li> <b> RLtraining(with 2 Discriminators and f1 scores).py : </b> The reward is calculated by adding rewards from both the discriminators and also adding the f1 score of the generated keyphrase string. </li>
 </ol>
