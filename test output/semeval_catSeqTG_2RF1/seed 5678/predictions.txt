@@ -1,0 +1,100 @@
+grid service;uddi;grid computing;web service discovery;uddi;<peos>;grid computing;grid computing
+self adaptive;grid computing;resource selection;<peos>;grid computing;heterogeneous computing
+intra flow loss recovery;volp;sample based codecs;speech quality;loss concealment;<peos>;voice quality;speech coding;speech coding;speech coding
+content management;networked storage;rich media;<peos>;security;spectrum management;distributed systems;spectrum management
+operation context;operational transformation;operational transformation;causality;<peos>;cscw;collaborative filtering;collaborative filtering
+edas;virtualisation;grid computing;resource management;<peos>;distributed systems;decentralized systems;peer to peer
+sensor deployment;target detection;sensor network;<peos>;wireless sensor networks;sensor networks;traffic monitoring;distributed algorithms
+voip;virtual conferencing;real time services;sip;<peos>;quality of service;real time systems;real time systems
+malware;slammer;rate detection;swarm worm;<peos>;security;swarm intelligence
+service interface;modular network;service abstraction;java;<peos>;software architecture;service oriented architecture;service oriented architecture
+live data center migration;context awareness;virtualization;distributed systems;<peos>;distributed systems;cooperative systems;context awareness
+metrics collection;middleware;mobile applications;object mobility;<peos>;quality of service;mobile computing;mobile computing
+dynamic adjustment mechanism;replica selection;data grid;coallocation;<peos>;grid computing;parallel computing
+localization;wireless sensor networks;localization;<peos>;wireless sensor networks;spatio temporal measurement;spatio temporal measurement
+grid service;biological sequence comparison;task allocation;<peos>;grid computing;grid computing
+performance evaluation;conflex;g grid;molecular conformational space search;omnirpc;<peos>;grid computing;grid computing
+data dissemination;overlay networks;ip multicast;<peos>;performance evaluation;overlay networks
+peer to peer;file sharing;intranets;<peos>;information retrieval;peer to peer;distributed systems;distributed systems
+object storage;strong consistency;transactional caching;high latency networks;<peos>;cscw;collaborative networks;collaborative networks;collaborative networks
+negotiation;context aware computing;<peos>;semantic web;context awareness
+pairwise key establishment;model networks;wireless sensor networks;hierarchical hypercube model;kdc;<peos>;cryptography;h model;h model
+encryption;access control;publish subscribe;<peos>;security;security;publish subscribe systems
+peer to peer;receiver driven;gossiping;<peos>;overlay networks;overlay networks;overlay networks
+edge indexing;grid;virtual environments;spatial database;<peos>;distributed computing;game based rendering
+resource allocation;combinatorial auction;wireless sensor networks;combinatorial auctions;<peos>;game theory;mechanism design
+query expansion;web retrieval;adaptive algorithm;<peos>;information retrieval;query expansion;web service
+query contexts;information retrieval;language modeling;<peos>;information retrieval;query expansion;query expansion
+personal information management;privacy;diary study;<peos>;information retrieval;task based evaluation;task based evaluation
+information distillation;adaptive filtering;novelty detection;<peos>;information retrieval;utility theory;adaptive search
+user modeling;recommendation systems;em algorithm;<peos>;collaborative filtering;bayesian inference;bayesian inference
+test collections;retrieval evaluation;relevance;<peos>;experimentation;human factors;relevance evaluation;relevance feedback
+web search;clustering;information search;<peos>;information retrieval;web search;web search log analysis
+clustering;clustering;document clustering;eigenvalue decomposition;<peos>;feature extraction;sparse representation;sparse representation
+laplacian optimal design;image retrieval;relevance feedback;contentbased image retrieval;<peos>;image retrieval;image retrieval;image retrieval
+result snippets;web search;search engines;document compression;<peos>;information retrieval;document management;document compaction;document management
+caption features;clickthrough patterns;web search;<peos>;information retrieval;clickthrough data
+web search;user study;user study;<peos>;information retrieval;web search;query log analysis;information retrieval
+caching;search engines;web search engines;dynamic caching;<peos>;world wide web;web caching;query processing
+pruning;inverted index;correctness guarantee;web search;<peos>;information retrieval;information retrieval;information retrieval
+topic segmentation;shared topic detection;mutual information;weighted mutual information;weighted mutual information;<peos>;document analysis;multiple document analysis;topic alignment;multiple document analysis
+feature trajectories;event detection;spectral analysis;<peos>;data mining;feature extraction;unsupervised learning
+event detection;indexing tree;named entity;<peos>;natural language processing;news indexing;news indexing;news indexing;information retrieval
+classification;rare queries;query classification;<peos>;query processing;web search;query expansion
+search engine;web search;relevance feedback;<peos>;information retrieval;interaction log analysis;interaction log analysis;interaction log analysis
+term feedback;information retrieval;language models;language modeling;<peos>;information retrieval;query expansion;cluster analysis
+support vector method;average precision;machine learning;<peos>;machine learning;web search;web search
+uncertainty;pseudo relevance feedback;model combination;<peos>;information retrieval;document analysis;risk analysis
+latent concept expansion;markov random fields;query expansion;<peos>;information retrieval;latent semantic indexing
+poisson query generation;information retrieval;language models;poisson distribution;<peos>;information retrieval;poisson models;query expansion
+definitional question answering;question answering;interestingness;<peos>;natural language processing;linguistic modeling
+aborting;bdi agents;intelligent agents;artificial intelligence;<peos>;multi agent systems;bdi agents
+negotiation chains;multi agent systems;negotiation chain;multi agent systems;<peos>;multi agent systems;semi cooperative systems;semi cooperative systems
+self organising agents;resource allocation;distributed algorithm;multiagent systems;<peos>;multi server systems;distributed systems;distributed systems;distributed systems
+dynamic semantics;agent communication languages;dynamic semantics;commitment;<peos>;formal languages;speech act theory
+commitment;extortion;commitments;artificial intelligence;<peos>;multiagent systems;multiagent systems
+temporal linear logic;commitments;temporal linear logic;<peos>;multi agent systems;temporal reasoning
+incremental learning;collaborative learning;multi agent systems;consistency;concept learning;<peos>;multi agent systems;multi agent systems
+agent characterization;prediction;multiagent systems;<peos>;artificial intelligence;real time systems;real time systems;real time systems
+dynamic environments;sparse data;decision making;multi agent systems;coordination autonomy;<peos>;multi agent systems;user profiles;probabilistic reasoning
+reinforcement learning;distributed search;information retrieval;<peos>;peer to peer;hierarchical models;peer to peer systems
+information searching;dynamic networks;routing indices;networks;<peos>;information sharing;large scale networks;large scale networks;large scale networks
+bidding agent;advertisement selection;public displays;bluetooth;<peos>;multi agent systems;distributed auction;distributed auction
+collaboration;satellite swarm;on board planning;information systems;<peos>;game theory;swarm intelligence
+bidding;second price auctions;perfectly substitutable goods;bidding agents;<peos>;game theory;concurrent auctions;distributed auction
+power index;network flow games;preference aggregation;multiagent systems;<peos>;game theory;multiagent systems
+market barriers;communication networks;marketing systems;satisficing models;preferential attachment;<peos>;multi agent systems;network design;network design
+cognitive load modeling;shared mental models;human agent collaboration;human agent pairs;human agent pairs;shared belief map;<peos>;multi agent systems;human agent models;human agent interaction
+sequential decision making;economic search;distributed equilibrium;<peos>;game theory;parallel computing;parallel computing
+distributed management;flexible times scheduling;agent architecture;rescheduling;<peos>;multi agent systems;agent based models;distributed computing
+task allocation;social networks;contract net;<peos>;multi agent systems;distributed algorithms;distributed algorithms
+aggregation;modal logic;modal logic;knowledge representation;<peos>;multi agent systems;judgment aggregation;judgment aggregation;judgment aggregation
+environment model;bounded rational agents;intelligent agents;knowledge representation;<peos>;multi agent systems;adversarial reasoning;adversarial reasoning
+institutional norms;organizational structures;organizational structures;modal logic;<peos>;multi agent systems;distributed systems;distributed systems
+conflict and inconsistency;virtual organizations;multi agent systems;multi agent systems;general terms;<peos>;multi agent systems;conflict resolution;grid computing
+distributed norm management;multi agent systems;norms;conflict;<peos>;multi agent systems;distributed systems;distributed systems
+trade reduction;incentive compatibility;individual rationality;supply chain;<peos>;supply chain management;supply chain management
+optimal redistribution;vcg mechanism;allocation;multiagent systems;<peos>;mechanism design;strategyproof mechanism
+budget optimization;advertising;auctions;inapproximability;<peos>;game theory;game theory
+ranking rules;keyword auctions;search engines;<peos>;electronic commerce;internet;revenue management
+compatibility;diffusion of technologies;social networks;<peos>;social network;strategic planning;strategic planning
+strong equilibrium;connection games;multiple sinks;price of anarchy;<peos>;game theory;cost sharing
+information market;security;threshold security;<peos>;supply chain management;distributed computing;distributed computing
+user behavior;online reviews;feedback;<peos>;information seeking;linguistic modeling;linguistic modeling;linguistic modeling
+trading networks;price setting agents;nash equilibrium;<peos>;game theory;graph theory
+combinatorial auctions;structured item graphs;hypertree decompositions;<peos>;graph theory;combinatorial optimization;graph theory
+nash equilibria;graphical games;nash equilibrium;<peos>;game theory;nash equilibrium
+generalized value decomposition;multiattribute auctions;multiattribute auction;<peos>;mechanism design;structured auctions;structured auctions
+mechanism design;scheduling;cycle monotonicity;approximation algorithm;<peos>;algorithmic mechanism design;truthful design;approximation algorithms
+mediators;position auctions;electronic commerce;<peos>;game theory;entity search
+clearing;barter exchange markets;kidney exchanges;column generation;<peos>;mechanism design;incremental algorithms;incremental algorithms
+information markets;information markets;betting game;projection game;<peos>;game theory;strategic planning
+permutations;arbitrage;betting languages;pair betting;<peos>;data mining;divisible sets
+vertex cover;auctions;vertex cover;bootstrapping;<peos>;mechanism design;mechanism design
+boolean style;logical formulas;securities market;algorithms;<peos>;economics;risk management;securities models;risk management
+agency;internet;algorithmic mechanism design;<peos>;game theory;selfish routing
+revealed preference;forecasts;learning parameter learning;<peos>;machine learning;nonparametric regression;nonparametric regression
+multi unit allocation;auctions;bidding language;<peos>;mechanism design;strategyproof mechanism
+mechanism design;mechanism design;signaling games;<peos>;game theory;social network
+optimal strategy;commit;multiagent systems;leadership;mechanism design;<peos>;game theory;game theory
+nash equilibria;graphical games;trees;dynamic programming;<peos>;game theory;nash equilibrium

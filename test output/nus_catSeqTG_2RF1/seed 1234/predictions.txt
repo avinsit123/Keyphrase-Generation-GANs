@@ -1,0 +1,211 @@
+dispersers;sub polynomial entropy;ramsey graphs;bootstrap;<peos>;computational complexity;dispersers;boolean networks;boolean functions
+inverse document frequency;inverse document frequency;probabilistic retrieval;<peos>;inverse problems;inverse problems;inverse problems;inverse problems;inverse problems;inverse problems
+crawling;web crawling;concurrent programming;<peos>;distributed systems;real time systems;real time systems;real time systems;real time systems;distributed systems;fault tolerance
+hiperlan <digit>;public access;interworking;wlan;<peos>;wireless networks;3g;3g;wireless networks
+information displays;illustrative shadows;semantic network;<peos>;computer graphics;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization
+impedance coupling;content targeted advertising;pattern recognition;<peos>;information retrieval;web search;content based retrieval;content based retrieval;content based retrieval
+knowledge area;it model curriculum;curriculum;<peos>;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education
+user modeling;personalized search;information retrieval;query expansion;<peos>;decision theory;decision theory;decision theory;decision theory
+nearest neighbour;approximation search;k nearest neighbour;branch and bound;<peos>;k nearest neighbour search;k nearest neighbour search;k nearest neighbour search
+static analysis;embedded languages;partial evaluation;macros;<peos>;program analysis;software testing;software testing;software testing;software testing
+incremental mining;sequential patterns;data mining;<peos>;data mining;incremental learning;incremental learning;incremental learning
+index structures;rdf;semantic web;semantic web;semantic web;<peos>;semantic web;distributed query;distributed query processing;distributed databases;distributed databases;distributed databases;distributed databases
+functional evaluators;abstract machines;closure conversion;defunctionalization;<peos>;program analysis;functional programming;software engineering;software engineering;software engineering;software engineering
+time series;multiple distance measures;data mining;longest common subsequence;<peos>;data mining;multi dimensional data mining;multi dimensional data mining;multi dimensional data mining;time series analysis
+information retrieval;language tutoring;web search engine;<peos>;information retrieval;information retrieval;information retrieval;web mining
+web queries;geographical locality;query categorization;<peos>;information retrieval;web search;web search;web search
+information revelation;privacy;online social networks;<peos>;social networks;information dissemination;online networks
+document object model;hyperlinks;topic distillation;information extraction;topic distillation;<peos>;information retrieval;information retrieval;hyperlink analysis;hyperlink analysis
+information assurance;security;it2005;curriculum;<peos>;computer security;computer security;computer security;computer security;computer security
+machine learning;perceptual user interfaces;ubiquitous computing;<peos>;computer graphics;image based learning;image based learning;interactive learning
+interestingness;frequent itemsets;bayesian networks;background knowledge;<peos>;data mining;frequent itemset mining;data mining;itemset mining
+interference;bluetooth;ieee <digit>;mutual interference;<peos>;wireless networks;mac;mac protocols
+ambient display;peripheral display;information art;<peos>;computer mediated communication;interactive displays;interactive displays;interactive displays;interactive displays
+geometric constraints;graphical applications;3d graphics;graphical user interfaces;<peos>;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics
+load balancing;sensor networks;in network storage;<peos>;wireless sensor networks;data dissemination;data dissemination;wireless sensor networks
+language specific model;topic tracking;topic models;<peos>;information retrieval;multilingual information retrieval;multilingual information retrieval;multilingual information retrieval;multilingual information retrieval
+lazy preservation;digital preservation;digital libraries;<peos>;data structures;web services;web services;web services
+imbalanced data sets;cluster machines;support vector machines;meta algorithm;meta algorithm;<peos>;data mining;large scale systems;large scale systems;large scale systems;large scale systems;data mining;large scale systems
+query languages;web interfaces;<peos>;information retrieval;web search;web search;web search
+clustering;dissimilarity measure;data mining;<peos>;data mining;dissimilarity measure;dissimilarity measure;dissimilarity measure;dissimilarity measure
+kernel machines;classification;active learning;spectral kernel learning;quadratic programming;<peos>;semi supervised learning;semi supervised learning
+3d graphics;accelerator;asic;<peos>;computer graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics;3d graphics
+location based indexing;data dissemination;location dependent data;<peos>;wireless networks;wireless networks;wireless networks
+bagging;online algorithm;bayesian formulation;<peos>;data mining;bayesian inference;bayesian inference
+machine learning;table detection;web mining;cross validation;<peos>;data mining;web mining;web mining
+photon mapping;block hashing;hardware accelerated rendering;fragment shaders;<peos>;computer graphics;fragment based rendering;low latency;fragment based rendering
+competitive algorithms;online scheduling;unit size;oblivious scheduler;<peos>;competitive analysis;online algorithm;online algorithm;online algorithm
+machine learning;information architecture;concept learning;<peos>;information retrieval;information retrieval;information retrieval;information retrieval;website analysis;information retrieval
+machine learning;dna microarray;cancer classification;feature selection;<peos>;microarray data;dna microarray;ensemble learning;ensemble learning
+machine learning;microarray;data mining;data mining;<peos>;machine learning;semi supervised learning;semi supervised learning
+cohesion;packages;ada95;dependence analysis;<peos>;program analysis;program analysis;program analysis
+measurement;e government;public administration;<peos>;electronic governance;business process;business process management;business process management;business process management;business process management;business process management;business process management;business process management;business process management;business process management;business process management;business process management;business process
+average flow time;preemption;approximation algorithms;<peos>;computational complexity;on line algorithms;competitive analysis;competitive analysis
+information dissemination;personal communications;social network;latent dirichlet allocation;social network;<peos>;information retrieval;information retrieval;information retrieval;information retrieval;information retrieval
+behavioral patterns;concurrent objects;petri nets;behavioral design patterns;uml;<peos>;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object oriented design;object
+intranet search;information extraction;relevance search;<peos>;information retrieval;information retrieval;information retrieval;information retrieval
+node compromise spread;wireless sensor networks;epidemic theory;random graphs;<peos>;ad hoc networks;epidemic models;ad hoc networks
+security;routing protocols;wireless sensor networks;secure routing;<peos>;cryptography;security;cryptography
+obfuscated;databases;group privacy;obfuscation;<peos>;information security;information security;database security;database security;database security
+peer agreements;query answering;peer to peer;data integration;<peos>;peer to peer;p2p systems;p2p systems
+statistical quantitative rules;market share;decision making;resampling;<peos>;data mining;statistical learning;statistical learning;statistical learning
+transmission range;cluster;wireless sensor networks;mixed communication modes;network lifetime;<peos>;cluster computing;cluster computing
+parallel crawler;parallel crawling;<peos>;data structures;parallel architecture;parallel architecture;parallel architecture;parallel architecture
+proxy;3g;gaming;interactive games;<peos>;multimedia games;game theory;performance evaluation
+visual simulation;graphics hardware;cellular automata;coupled map lattice;<peos>;physically based simulation;physically based simulation;physically based simulation;physically based simulation
+presence;virtual environment;virtual reality;<peos>;human computer interaction;virtual reality;human computer interaction;virtual reality
+text segmentation;contextual information;logistic regression;<peos>;information retrieval;contextual information;chinese text;chinese text
+information leakage;trust negotiation;negotiation;<peos>;security;security;trust management;trust management
+topic models;information discovery;markov chain monte carlo;<peos>;information retrieval;information retrieval;topic models;information retrieval;topic models
+proportional search;usability;search user interfaces;<peos>;user interface design;search based software engineering;search based software engineering;user interfaces;user interfaces
+3d graphics;remote rendering;reconstruction attack;<peos>;computer graphics;interactive rendering;interactive rendering;interactive rendering;interactive rendering
+human robot interaction;multi modal attention;mobile robot;person tracking;face recognition;<peos>;human robot interaction;multi modal attention;multi modal attention;multi modal attention
+persuasive advertising;product information;e commerce;personalization;psychological customization;<peos>;affective computing;emotion recognition;emotion recognition;emotion recognition;emotion recognition
+ownership protection;relational databases;watermarking;<peos>;information hiding;secret sharing;secret sharing
+conceptual models;sparce;context;<peos>;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems
+quality of service;ip services;bluetooth;ad hoc networks;qos;<peos>;wireless networks;quality of service;quality of service
+question answering;passage ranking;passage ranking;<peos>;information retrieval;web mining;web mining
+programming languages;computer science;curriculum;computer science;curriculum;design;software;information science education;theory;<peos>;computer science education;computer science education;computer science education;hybrid systems;hybrid systems;hybrid systems;hybrid systems;hybrid systems
+query result ranking;e commerce;web database;<peos>;information retrieval;web search;web search;web search
+classification;web document retrieval;mutual information;<peos>;information retrieval;query processing;query processing;query processing
+information management;data integration;xml;<peos>;information retrieval;information retrieval;information retrieval;information retrieval;information retrieval
+ranking;packet sampling;blind ranking;<peos>;measurement;traffic flow;flow visualization;traffic analysis
+navigational query;web navigation;target object set;pagerank;<peos>;information retrieval;web mining;graph mining;graph mining
+ranking;web communities;score fusion;web forums;<peos>;information retrieval;web mining;web mining;web mining
+information sharing;social networks;privacy;<peos>;information retrieval;information retrieval;social networks
+remote access;spatial databases;peer to peer;<peos>;data dissemination;spatial databases;spatial databases;peer to peer computing
+and;multimedia;database management;scientific databases;<peos>;multimedia information retrieval;multimedia retrieval;multimedia retrieval;multimedia retrieval
+robustness;cognitive information complexity;weyuker properties;cognitive informatics;<peos>;information retrieval;cognitive theory
+scheduling;bluetooth;scatternet;scatternet;<peos>;wireless networks;peer to peer networks
+dynamic linking;wireless sensor networks;virtual machine;virtual machine;<peos>;wireless sensor networks;run time reprogramming;wireless sensor networks;energy efficiency
+simulation;sensor network;debugging;<peos>;software testing;software testing;software testing;software testing
+data aggregation;sensor networks;waiting time;<peos>;ad hoc networks;distributed computing;graph algorithms;semi structured networks
+graph databases;graph pattern mining;<peos>;data mining;graph mining;graph mining;graph mining
+secure access;multimedia services;bootstrapping;3g;mobile networks;quality of security;<peos>;multimedia security;multimedia security;multimedia security;multimedia security;multimedia security
+aggregation;sensor networks;data aggregation;<peos>;security;cryptography;data security;data mining
+middleware;wireless sensor networks;publish subscribe;<peos>;wireless sensor networks;publish subscribe;publish subscribe;publish subscribe
+sensor network;broadcast authentication;security;<peos>;cryptography;wireless sensor networks;security;cryptography
+gene ranking;classification;microarray;hypothesis testing;support vector machines;<peos>;gene expression;gene expression;microarray analysis
+isosurfaces;local geometric measures;contour tree;visualization;<peos>;volume visualization;isosurface extraction;isosurface extraction
+packet forwarding;sensor networks;neighbor watch;<peos>;wireless sensor networks;multipath routing;multipath routing;multipath routing
+option prices;sensitivities;higher rank lattice rules;option pricing;<peos>;monte carlo simulation;monte carlo simulation;monte carlo simulation
+hidden web;search engine;<peos>;information retrieval;information retrieval;information retrieval;information retrieval
+indian language;blind;braille;visually impaired;<peos>;assistive technology;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation
+3d navigation;spatial temporal controls;interactivity;<peos>;human computer interaction;spatial reasoning;3d visualization;spatial visualization;spatial visualization
+tactons;tactile displays;<peos>;assistive technology;tactile displays;tactile displays
+tcp;3g;3g;scheduling;ack regulator;<peos>;quality of service;wireless networks;wireless networks
+forest;oracle;sql;sql;oracle;oracle;<peos>;data mining;data mining;data mining;data mining
+maximum entropy;retrieval measures;maximum entropy;<peos>;information retrieval;performance evaluation;performance measures
+similarity measure;motion streams;singular value decomposition;eigenvector differences;<peos>;motion recognition;motion recognition;motion recognition;motion analysis
+topic maps;topic maps;semantic web;<peos>;information retrieval;query processing;query processing
+cell processor;scientific computing;performance modeling;vliw;<peos>;design;experimentation;performance;performance;performance analysis;performance analysis;performance analysis;performance analysis
+mediation;ontology;software component information retrieval;component based development;<peos>;software engineering;software architecture;software architecture;software architecture;software architecture
+conceptual views;web services;personalization;ontology;<peos>;semantic web;semantic web;semantic web services;semantic web services;semantic web services
+topic modeling;fringe word prediction;aac;language model;<peos>;natural language processing;speech recognition;speech recognition
+topic transition detection;hierarchical hidden markov model;semi markov model;coxian switching;video content modeling;<peos>;video analysis;hierarchical model;hierarchical model;video analysis
+relevance ranking;video search;machine learning;<peos>;video retrieval;video retrieval;video retrieval;video retrieval
+reasonability;access control;policy languages;xacml;<peos>;security;theory;verification;theory;verification;theory;verification;theory;verification;formal methods;formal methods;formal methods;formal methods;formal methods;formal methods;formal methods
+finite mixture model;topic analysis;topic analysis;dynamic model selection;dynamic model selection;<peos>;topic detection;topic detection;topic detection;topic detection
+case study;theft of information;security;electronic commerce;security;<peos>;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security;security
+collaborative information seeking;academic researchers;information search;<peos>;cscw;information retrieval;information retrieval
+transactional agent;fault tolerance;surrogate agent;<peos>;distributed systems;fault tolerance;mobile computing
+cross lingual queries;digital libraries;cross language information retrieval;term translation;<peos>;information retrieval;web based information retrieval;web based information retrieval;web based information retrieval;web based information retrieval
+design pattern;type indexed functions;haskell;generic programming;<peos>;program analysis;type theory;type theory;type inference;type theory
+uml;service robot;intelligent robotics;<peos>;software architecture;software architecture;software architecture;software architecture;software architecture
+utility maximization;resource selection;distributed information retrieval;<peos>;information retrieval;distributed information retrieval;distributed information retrieval;distributed information retrieval;distributed information retrieval
+unwanted traffic;3g;gprs;umts;<peos>;internet;network traffic;network security;network security
+contextualized attention;metadata;ranking;learning objects;<peos>;information retrieval;learning objects;learning objects;learning objects;learning objects;learning environments;interactive learning environments;teaching learning strategies
+relative code churn;churn;system defect density;statistical regression;<peos>;software metrics;software metrics;software metrics;software metrics
+case based reasoning;traffic pattern recognition;3g networks;w cdma;<peos>;intelligent systems;intelligent systems;intelligent systems;intelligent systems;intelligent systems;intelligent systems;intelligent systems;intelligent systems;intelligent systems
+roles;business objects;business process modeling;role modeling;role modeling;<peos>;business process management;object oriented modeling;object oriented modeling;object oriented modeling;business process management;object oriented modeling
+taxonomy;ambient information systems;design;tangible interfaces;<peos>;human factors;tangible user interfaces;tangible user interfaces;tangible user interfaces;tangible user interfaces
+web helper;query generation;information agents;<peos>;information retrieval;web mining;web mining;web mining
+mpeg <digit>;machine learning;video transcoding;<peos>;video coding;video coding;video coding;video coding
+video streaming;moving users;mobile networks;streaming service;<peos>;wireless networks;third generation networks;distributed systems;3g networks;distributed systems;distributed systems;distributed systems
+web taxonomy;co bootstrapping;semantic web;pattern recognition;<peos>;information retrieval;web mining;web mining
+and;multiple character encodings;web search;and;<peos>;information retrieval;web search;web search;web search;web search
+focused crawling;missing papers;digital libraries;citeseer;<peos>;electronic commerce;online information retrieval;online retrieval;online learning
+two phase sampling;information extraction;hidden web databases;<peos>;information retrieval;web mining;web services
+qos;provider revenue;3g mobile networks;quality of service;umts;<peos>;quality of service;adaptive control;adaptive control;adaptive control
+weighted ranking;facet based component retrieval;component retrieval;<peos>;facet retrieval;facet retrieval;facet retrieval
+focused crawling;relevance feedback;focused crawler;artificial intelligence;<peos>;information retrieval;information retrieval;online learning;artificial intelligence
+3d convolution;graphics hardware;volume visualization;<peos>;image processing;image processing;image processing;image processing
+agent technology;information filtering;personal information system;collaborative filtering;<peos>;multi agent systems;information filtering;information retrieval;information retrieval;information retrieval
+information retrieval;associative networks;knowledge representation;<peos>;information retrieval;fuzzy logic;fuzzy logic
+analytical model;g m <digit>;self similar input;qos;3g networks;tele traffic;<peos>;quality of service;wireless networks;wireless networks
+reflective meta reasoning;languages;higher order abstract syntax;computational type theory;<peos>;theory;theorem proving;theorem proving
+architectural style;parallel computations;software engineering;mpi;<peos>;parallel computation;parallel computing;parallel computing;parallel computing
+machine learning;bioinformatics;<peos>;data mining;machine learning;data mining;data mining
+aspect language;arachne;prefetching;aspect oriented programming;<peos>;aspect oriented programming;aspect oriented programming
+index system;quality synthesis;business website;grey box ' principle;clustering;<peos>;website design;website analysis;website analysis;website analysis
+3d animation;3d animation;multi way constraints;<peos>;virtual reality;3d animation;3d animation;3d animation;3d animation;3d animation;3d animation
+test cases;database;software engineering;<peos>;software testing;software testing;software testing;software testing
+soft handover;3g;neural network;clustering;<peos>;wireless networks;handover;mobile computing
+aspect oriented programming;real life;web crawling;<peos>;aspect oriented programming;aspect oriented programming
+data aggregation;sensor networks;aggregation;security;<peos>;security;security;cryptography;data mining
+rich presentation;semantic topic;clustering;generative model;<peos>;information retrieval;multimodal retrieval;multimodal retrieval;multimodal retrieval;semantic web
+database security;shoestring;database security;<peos>;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information security;information
+machine learning;document retrieval;<peos>;information retrieval;titles extraction;document analysis;document analysis;document analysis
+node recovery;wireless sensor networks;security;<peos>;fault tolerance;intrusion detection;intrusion detection;distributed systems;intrusion detection
+online classifiers;text classification;filtering;<peos>;data mining;bayesian inference;bayesian inference
+pagerank;machine learning;static ranking;<peos>;information retrieval;web mining;web mining
+black box;secure computation;trapdoor permutations;public key encryption;<peos>;cryptography;cryptanalysis
+bluetooth;scheduling;interference mitigation;wireless personal area networks;<peos>;wireless networks;wireless networks
+breadth first search crawling;pagerank;<peos>;information retrieval;web mining;web mining
+broadcasting;instant messaging;instant messenger;<peos>;cscw;cscw;groupware
+research library;web;internet archive;high performance computing;<peos>;internet;web services;web services;social networks;social networks
+history narratives;women computing;education;<peos>;pedagogy;women in computer science;pedagogical issues;teaching learning strategies
+dependability;emerging technologies;quantum computing;embryonics;fault tolerance;<peos>;quantum computing;quantum computing;quantum computing
+sustainability;community information systems;digital government;sustainability;adaptive structuration theory;<peos>;social networks;social networks;social networks
+machine learning;security;security;<peos>;security;security;security;security;security;security;cryptography
+information retrieval;sketch;sketch interaction;<peos>;pen based computing;pen based computing;pen based computing
+compression;inverted indexes;query evaluation;integer compression;<peos>;information retrieval;integer programming
+consistent query answers;conflict hypergraphs;relational algebra;<peos>;database;query optimization;database management;query optimization
+consistent query answering;key dependencies;integrity constraints;conjunctive queries;<peos>;data databases;key management;key management;key management
+context awareness;web information systems;usability;<peos>;electronic commerce;web services;context awareness
+partial object recognition;symmetry;image databases;symmetry;classification;<peos>;image processing;image reconstruction;image reconstruction;image reconstruction
+entropy;categorical clustering;categorical data;entropy;clustering;<peos>;data mining;categorical data;data mining;data mining
+coupling;cohesion;evaluation;reusability;<peos>;software metrics;java;java;java;java
+3d graphics;object oriented library;groupware;virtual reality;<peos>;distributed computing;3d graphics;distributed computing;distributed computing;distributed computing;distributed computing;distributed computing
+feature selection;machine learning;query identification;naive bayes model;stochastic gradient boosting;<peos>;information retrieval;navigational features;navigational features;navigational features;web mining
+coverage directed test generation;functional verification;bayesian networks;computer learning;<peos>;data mining;functional analysis;bayesian inference
+master index;html;information retrieval;<peos>;information retrieval;information retrieval;information retrieval;information retrieval;information retrieval
+data mining;metric space;boosting;multidimensional scaling;multidimensional scaling;<peos>;data mining;data mining;performance analysis;performance analysis;performance analysis
+database security;infosec program;access control;multilevel security;<peos>;security;security;security;cryptography;security;cryptography
+diameter;self routing;bluetooth;ad hoc networks;piconet;<peos>;ad hoc networks;ad hoc networks;ad hoc networks
+e commerce;implications;<peos>;electronic commerce;e commerce;e commerce
+communicative action;information system design;south africa;structuration theory;habermas;<peos>;electronic health records;child computer interaction;child computer interaction;child computer interaction;child computer interaction;child computer interaction
+diagnosis;tcp;bayesian networks;bayesian network;<peos>;security;overlay networks;overlay networks
+digital asset management;xml;metadata;<peos>;information retrieval;xml;information retrieval;image processing
+scheduling;bluetooth;scatternet;scatternet scheduling;<peos>;ad hoc networks;scatternet;ad hoc networks
+web directories;lexical chains;information filtering;<peos>;information retrieval;web mining;web mining;web mining
+web services;biased focus;service discovery;performance optimization;<peos>;data mining;web services;web services;web services;web services
+distance measures;mpeg <digit>;visual information retrieval;proximity measures;<peos>;information retrieval;visual search;visual search
+dogs;robots;children;aibo;<peos>;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction
+hidden web;keyword queries;deep web;<peos>;information retrieval;web search;web search;web search
+language extension;meta aspectj;domain specific languages;java;<peos>;language extensions;language extensions;software engineering;aspect oriented programming
+web search;query disambiguation;routing;caching;<peos>;information retrieval;web mining;query processing;web services
+text categorization;generalized discriminant analysis;support vector machines;generalized singular value decomposition;<peos>;data mining;multi way classification;multi class classification;multi class classification;multi class classification
+phrase querying;auxiliary index;inverted files;<peos>;data retrieval;phrase indexing;phrase indexing;data retrieval;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing;data indexing
+indexing;similarity;<peos>;shape retrieval;boundary detection;boundary detection;boundary detection
+voxelization;graphics hardware;distance transform;<peos>;graphics hardware;3d graphics hardware;3d graphics hardware;3d graphics hardware;3d graphics hardware;3d graphics hardware;3d graphics hardware
+semantic associations;semantic web;rdf;graph signatures;<peos>;information retrieval;semantic web;semantic web;semantic web
+energy management;database;query optimizer;query restructuring;<peos>;query optimization;query directed search;query optimization;query optimization
+security;safety;information flow analysis;spark analysis;<peos>;security;verification;security;verification;information flow analysis;software security
+entropy;self organization;multi agent systems;<peos>;multiagent systems;multi agent systems;agent based systems
+entropy;sensor selection;target localization;mutual information;<peos>;sensor networks;sensor networks;wireless sensor networks
+global pagerank;web communities;markov chain;<peos>;information retrieval;web search;web search;web search
+similarity measures;social network;collaborative filtering;<peos>;social networks;social networks;social networks;social networks
+relation browser;relation browser;graphical user interfaces;<peos>;information retrieval;video retrieval;video retrieval;video retrieval;video retrieval
+event threading;event recognition;information search;<peos>;information retrieval;news analysis;news analysis;news analysis;news analysis;news analysis;natural language processing;natural language processing;natural language processing
+evolutionary learning;kernels;support vector machines;particle swarm optimization;<peos>;genetic algorithm;evolutionary computation;evolutionary computation;evolutionary computation
+middleware;corba;object oriented programming;<peos>;object oriented architecture;object oriented programming;object oriented programming;object oriented programming
+human control;multiple robots;fan out;fan out equation;<peos>;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction;human robot interaction
+string sorting;sorting;word ram;<peos>;string compression;text compression;text compression;text compression
+memory;3d graphics;random access memory;computer graphics;<peos>;computer graphics;computer graphics;computer graphics;computer graphics
+named entity recognition;machine learning;natural language processing;<peos>;natural language processing;natural language processing;natural language processing;natural language processing
+stg;lazy evaluation;tagless g machine;haskell;<peos>;languages;verification;formal methods;program verification;program verification;program verification;program verification
+bridges;web query classification;category selection;category selection;<peos>;information retrieval;web mining;web mining;web mining
+collaborative crawling;geographically focused crawling;<peos>;information retrieval;collaborative information retrieval;collaborative filtering;web information retrieval;collaborative learning
+3d graphics;benchmark;mobile phones;<peos>;computer graphics;embedded systems;embedded systems;embedded systems;embedded systems
+handoff;3g;vertical handoff;vertical handoff;<peos>;wireless lan;quality of service;quality of service

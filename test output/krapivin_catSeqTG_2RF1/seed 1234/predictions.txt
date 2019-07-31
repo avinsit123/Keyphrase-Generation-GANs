@@ -1,0 +1,400 @@
+recommender system;data mining;association mining;collaborative filtering;<peos>;data mining;sparse data mining;sparse data mining;sparse data mining
+semantics;events;events;versatile event logic;situation calculus;event calculus;<peos>;formal methods;temporal logic;temporal logic;temporal logic;temporal logic;temporal logic
+zoo;traffic world;action language;logic modelling;<peos>;cybernetics;logic programming
+subsumption;first order logic;nonmonotonic reasoning;mobile robot;<peos>;theorem proving;theorem proving
+minor;tree width <digit> coloring;<peos>;graph coloring;graph coloring;graph coloring
+bgp;routing;network engineering;<peos>;network topology;network flow;network flow;network flow
+collective mining;bayesian networks;<peos>;data mining;distributed learning;distributed learning;distributed learning environments;distributed learning environments;distributed learning environments
+performance evaluation;web search engine;information retrieval;<peos>;information retrieval;information retrieval;information retrieval;information retrieval
+minimum transversals;rank <digit> hypergraphs;vertex cover;<peos>;computational complexity;hypergraph algorithms
+conference calls;delay constraints;mobile telephony;<peos>;wireless networks;mobile computing;mobile computing
+simplex method;cycling;linear programming;<peos>;integer programming;computational complexity;steepest descent method
+continuous testing;continuous testing;continuous testing;<peos>;software testing;software testing;software testing;software testing
+test input generation;java pathfinder;model checking;symbolic execution;model checking;<peos>;verification;model checking;model checking;model checking
+adaptability;multi mode systems;program steering;machine learning;<peos>;software evolution;multi mode systems;multi mode systems;multi mode systems
+model checking;xml;xpath;<peos>;semantic web;software verification;xml;model checking
+approximate clustering;unsupervised learning;successive sampling;approximation algorithms;<peos>;data mining;approximation algorithms;approximation algorithms
+correlation clustering;document clustering;approximation algorithm;<peos>;data mining;approximation algorithms;approximation algorithms
+approximation algorithms;clustering;high dimensional spaces;minimum spanning trees;<peos>;data mining;randomized algorithms;approximation algorithms
+ale;inverted elements;mesh generation;<peos>;mesh generation;ale method
+cooperative caching;disk paging;competitive analysis;<peos>;competitive analysis;competitive analysis
+inverting functions;folds;well foundedness;reductivity;<peos>;computational complexity;inverting folds;computational complexity;inverting folds;computational complexity
+conjugate gradient method;shifted systems;tikhonov regularization;lattice quantum chromodynamics;<peos>;conjugate gradient method;lanczos method;lanczos method
+singular triplets;lanczos bidiagonalization;deflation;lanczos bidiagonalization;<peos>;matrix computation;sparse matrix;sparse matrix;sparse matrix
+duration calculus;timed linear temporal logic;verification;<peos>;timed logic;timed systems;timed systems;timed systems;timed systems;timed systems
+competitive ratio;accommodating sequences;seat reservation;randomized algorithms;<peos>;competitive analysis;competitive analysis
+admission control;immediate notification;<peos>;scheduling;on line algorithms;performance analysis;performance analysis
+council election;multicast;<peos>;security;privacy;anonymity;anonymity
+rsa;rsa;chosen ciphertext attacks;semantic security;<peos>;cryptography;cryptanalysis
+corpus structure;language models;information retrieval;<peos>;information retrieval;ad hoc networks;ad hoc networks
+relational algebra;sparse equations;<peos>;information retrieval;query processing;nested relation algebra;nested relation algebra
+coloring;<digit> colorable graphs;chromatic number;<peos>;graph coloring;computational complexity;graph coloring
+constrained gradients;databases;measure value analysis;measure value analysis;transactional databases;<peos>;data mining;constrained optimization;multidimensional data analysis;data mining;data mining
+erlang;resource locking;model checking;<peos>;program verification;software engineering;software engineering;software engineering;software engineering;software engineering
+equilogical;type theory;calculus;partial equivalence relations;combinatory algebra;algebraic lattices;<peos>;higher order logic;higher order theory;higher order theory;higher order logic;higher order logic;higher order logic
+two level languages;program optimization;partial evaluation;denotational semantics;<peos>;program analysis;program analysis;equational logic;equational logic;equational logic
+poset valued sets;linear logics;posets;<peos>;intuitionistic fuzzy sets;intuitionistic fuzzy sets;intuitionistic fuzzy sets
+semantics;object calculus;specification logic;<peos>;formal methods;verification;theory;verification;theory;verification;theory;verification;recursive logic;denotational semantics
+register coalescing;graph coloring;iterated coalescing;<peos>;graph algorithms;graph coloring
+networks;mobile agents;fairness;<peos>;wireless networks;mobile computing;mobile computing
+group key exchange;forward secrecy;<peos>;cryptography;group communication;group communication;group communication;asynchronous communication
+stochastic completion fields;twistable functions;contour completion;<peos>;image computation;stochastic computation;stochastic computation;stochastic computation;stochastic computation
+metering;metering;secret sharing;secret sharing;<peos>;cryptography;linear algebra;linear algebra
+finite state machines;xml;automata;monadic second order logic;<peos>;formal methods;formal methods;formal methods;formal methods;formal methods;formal methods;formal methods
+reflection;metalogical;equational logic;maude;<peos>;formal methods;membership function;membership function;membership function;membership function;membership function;parameterized logic;parameterized logic;parameterized logic
+scheduling;on line scheduling;competitive ratios;<peos>;combinatorial optimization;competitive analysis
+communicating processes;interfaces;realisability;compositionality;<peos>;software engineering;software verification;software verification;software verification
+steganography;hypothesis testing;relative entropy;<peos>;information theory;information theory;information theory
+np multifunctions;nondeterministic recursion;nondeterministic recursion;<peos>;computational complexity;computable analysis;computable analysis;computable analysis;computational complexity
+realizability;scott;s bounded linear logic;<peos>;computational complexity;computational complexity;computational complexity
+convex hull;algorithms;<peos>;computational geometry;computational geometry;computational geometry
+electronic voting;jury voting;homomorphic encryption;<peos>;cryptography;cryptanalysis
+sensor network;target detection;path exposure;<peos>;sensor networks;collaborative filtering;collaborative filtering;collaborative filtering
+symmetry groups;beta lattices;lattice symmetries;<peos>;computational topology;quasiperiodic systems;quasiperiodic systems;quasiperiodic systems
+graph properties;data mining;property mining;<peos>;data mining;graph mining;graph mining
+simulated execution;distributed algorithms;consensus;<peos>;formal methods;verification;verification;verification;verification;verification;verification;theorem proving
+approximation algorithms;positive linear programming;combinatorial optimization;<peos>;multiagent systems;distributed systems;approximation algorithms
+laurent polynomials;symmetry;filter banks;multiresolution analysis;b spline filters;<peos>;wavelet transform;wavelet transform
+termination;numerical loops;prolog;logic programs;<peos>;computational complexity;numerical analysis;numerical methods;numerical methods
+symbolic model checking;prism;probabilistic models;markov decision processes;pctl;<peos>;verification;symbolic computation;symbolic computation;symbolic computation;sparse representation;sparse representation
+test sequence generation;model checking;dynamic transition relations;<peos>;formal methods;verification;verification;verification;verification;verification;verification;verification;dynamic systems;test generation;temporal logic
+group key agreement;group key management;performance measurement;<peos>;cryptography;peer to peer
+router buffers;congestion control;sram;<peos>;congestion control;congestion control;congestion control
+layered naming;internet;distributed hash tables;<peos>;electronic commerce;service composition;service composition
+inverse kinematics;gaussian process;motion capture;<peos>;human computer interaction;human computer interaction;human computer interaction;human computer interface;interactive learning environments;human computer interface
+parametric search;quicksort;parallel sorting;<peos>;combinatorial optimization;parallel algorithms;parallel algorithms
+end to end delay;high speed networks;coordinated schedule;weighted fair queueing;<peos>;quality of service;weighted fair queueing networks;end to end delay;work delay scheduling
+juntas;random walks;random walks;<peos>;approximation;adaptive testing;adaptive testing;adaptive testing;adaptive testing;two sided test;adaptive testing
+adaptive algorithm;iso surface;triangulation;<peos>;mesh generation;mesh generation;mesh generation
+static analysis;embedded languages;partial evaluation;<peos>;formal methods;embedded systems;embedded systems;embedded systems
+internet capacity;local search;ospf;ospf;<peos>;congestion control;congestion control;congestion control
+observation logic;default logic;sensor fusion;<peos>;nonmonotonic reasoning;nonmonotonic reasoning;defeasible logic
+self stabilization;clock synchronization;byzantine faults;chinese remainder theorem;<peos>;fault tolerance;fault tolerance;fault tolerance
+haskell;extension languages;domain specific language;<peos>;languages;theory;verification;program transformation;program transformation;program transformation
+event detection;reactive systems;event algebra;algebra semantics;<peos>;formal methods;reactive systems;formal methods;formal methods;verification;formal methods
+combinatorial circuits;resource aware programming;abstract interpretation;fast fourier transform;<peos>;program synthesis;verified computing;a posteriori analysis;a posteriori estimation
+adaptive offloading;pervasive computing;decision making;<peos>;ubiquitous computing;mobile computing
+min cut;energy minimization;combinatorial optimization;<peos>;image processing;image segmentation;stereo vision
+direct product theorems;complexity theory;xor lemma;<peos>;formal methods;formal methods;verification;computational complexity
+complexity;crashes;work complexity;load balancing;synchronous shared memory;<peos>;distributed computing;distributed computing;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+nested semantics;finite trees;equationally hard;<peos>;formal methods;formal methods;finite automata
+resolution;hierarchical representation;order sorted logic;labeled substitutions;<peos>;natural language processing;knowledge representation;knowledge representation;knowledge representation;natural language processing
+unit disk graph;graph approximation;virtual coordinates;<peos>;wireless sensor networks;wireless sensor networks;wireless sensor networks
+debugging;shared language;lsl;containment;<peos>;formal methods;shared language;shared language;shared language;shared language;shared language;shared language
+medium access diversity;wireless lans;rate adaptation;<peos>;wireless networks;medium access control;rate control;wireless networks
+arithmetic circuits;polynomial replacement systems;proof circuits;<peos>;theory;proof complexity;proof complexity;proof complexity
+testing;general graphs;testing bipartiteness;<peos>;graph algorithms;graph algorithms;graph algorithms
+column ordering;cholesky factorization;sparsity;<peos>;compressed sensing;sparse matrices;sparse matrices;sparse matrices
+rounding;geometric embedding;multiway cut;approximation algorithm;geometric relaxation;<peos>;graph drawing;graph embedding;graph embedding
+integer knapsacks;frobenius number;frobenius number;<peos>;computational complexity;integer programming;integer programming
+pictorial structures;object recognition;part based modeling;<peos>;object recognition;part based learning;part based learning;part based learning;part based learning;part based learning
+constraint programming;rule based programming;constraint satisfaction;temporal logic;<peos>;constraint programming;qualitative reasoning;qualitative reasoning
+constraint logic program;polymorphism;subtyping;type checking;type checking;<peos>;program verification;constraint programming;constraint programming;constraint programming
+normed;simulation;simulation;refinement;<peos>;theorem proving;theorem proving
+spatial distribution;mobile ad hoc networks;mobility model;mobility model;<peos>;wireless networks;mobile ad hoc networks;mobile ad hoc networks
+asymmetric communication;broadcast;data dissemination;on line scheduling;<peos>;data dissemination;data dissemination;data dissemination;data dissemination;data dissemination;data dissemination;on line communications
+synchronization;wait free;concurrent algorithms;wait free;<peos>;concurrency;wait free computation;wait free protocols
+short signature;weil pairing;hyperelliptic curves;<peos>;cryptography;elliptic curve cryptography
+provable security;ad hoc routing;wireless ad hoc networks;simulation;<peos>;cryptography;ad hoc networks
+location diversity;anonymity;tor;<peos>;security;security;security;security;network security
+duplication;affine logic;<peos>;recursion;recursive algorithm;computational complexity;recursive duplication;computational complexity
+dnf;product distributions;pac learned;<peos>;computational complexity;computational complexity;computational complexity
+incremental algorithms;dynamic detection;invariants;<peos>;verification;incremental analysis;program analysis;program analysis
+fuzzy extractors;biometric;secret reuse;biometric;<peos>;information security;fuzzy logic;fuzzy logic
+id based encryption;complex hierarchies;forward security;broadcast encryption;collusion;<peos>;cryptography;bilinear map
+software development environment;taxonomy;<peos>;software engineering;software engineering;software engineering;software engineering;software engineering;software engineering
+special event location;odes;ordinary differential equations;<peos>;numerical methods;reliability;reliability;reliability;reliability;theory
+mixed finite element;weighted regularization;weighted regularization;mixed finite element method;<peos>;incompressible flow;incompressible flow;mixed finite element method
+point location;subdivision;fractional cascading;<peos>;computational geometry;dynamic programming;dynamic programming;dynamic programming
+communication complexity;communication protocols;analytic geometry;<peos>;cryptography;communication complexity;communication complexity;communication complexity;communication complexity;communication systems;communication systems;cybernetics
+registration;mobility;call patterns;location management;pcs networks;<peos>;wireless networks;location based services;location based services;location based services
+software trace cache;compiler optimization;code layout;<peos>;compiler optimization;compiler optimization;compiler optimization
+random walks;truncated cubes;knapsack problem;<peos>;approximation algorithms;randomized algorithms
+global predicates;distributed systems;clocks;timestamps;<peos>;formal methods;global systems;global optimization;real time systems;clock based systems;global optimization
+mutual exclusion;self stabilization;impossibility theorem;<peos>;fault tolerance;fault tolerance;fault tolerance
+security;multicast;wan;<peos>;security;cryptography;security;cryptography
+useless checkpoint;distributed computations;checkpointing;checkpointing;<peos>;fault tolerance;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+network protocols;parallel composition;safety;liveness;<peos>;formal methods;parallel protocols;parallel protocols;parallel protocols;parallel protocols
+byzantine quorum system;quorum system;fault tolerance;<peos>;fault tolerance;byzantine failures;byzantine failures
+gossip;distributed computing;time stamps;<peos>;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+leader election;sense of direction;<peos>;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+naming;wait free;shared variables;<peos>;distributed systems;wait free protocols;wait free protocols
+lower bounds;matrix multiplication;replication;<peos>;parallel algorithms;parallel algorithms;parallel algorithms
+approximation algorithms;partial covering;vertex cover;<peos>;approximation algorithms;approximation algorithms
+minimally unsatisfiable subformula;farkas ' lemma;linear programming;<peos>;computational complexity;computational complexity;computational complexity
+crossing number;pair crossing number;expansion;pcr;<peos>;graph theory;graph theory
+source tracing;dynamic source routing;ad hoc networks;<peos>;wireless networks;scenario analysis;scenario analysis
+web search;language filter;language filter;language filter;<peos>;information retrieval;text mining;text mining
+collaborative filtering;maximum entropy;online recommendations;<peos>;online learning;online learning;online learning;online learning
+privacy;data mining;<peos>;security;security;security;security;security
+data warehouse;olap;view selection;<peos>;data warehousing;data warehousing;data warehousing;data warehousing
+learning equilibrium;nash equilibrium;stochastic games;<peos>;game theory;social games;social games
+convergence;self stabilizing system;first order rewriting;regular languages;<peos>;formal methods;string rewriting;string rewriting
+exponential lower bound;locally decodable codes;quantum argument;private information retrieval;<peos>;quantum information retrieval;quantum information retrieval;quantum information retrieval
+tree metrics;metric spaces;online algorithms;<peos>;approximation algorithms;approximation algorithms
+load balancing;scatter operations;grid computing;<peos>;parallel computing;parallel computing;parallel computing
+gossip;resource location;gossip protocols;<peos>;ad hoc networks;gossip protocols;spatial networks
+monte carlo;low rank;singular value decomposition;randomized algorithm;<peos>;approximation algorithms;low rank approximation;low rank approximation
+multiplicity of parts;random composition;partitions;<peos>;integer programming;integer programming
+approximation algorithms;<digit> extension problem;multiway cut;graph partitioning;<peos>;graph theory;metric learning
+homotopies;polynomial systems;numerical continuation;irreducible decomposition;<peos>;algebraic computation;numerical methods;numerical methods;numerical methods
+polymorphic;intensional type analysis;intensional type analysis;haskell;<peos>;languages;intensional analysis;intensional logic;intensional logic;intensional logic
+types;haskell;type system;<peos>;languages;theory;type inference;type inference;type inference;type inference
+ergodicity;throughput;petri nets;linear programming;<peos>;timed systems;timed systems;timed systems;timed systems;timed systems
+multiple resolution;segmentation;texture segmentation;markov random field;parameter estimation;<peos>;image segmentation;image segmentation;image segmentation;image segmentation
+model based recognition;motion tracking;levenberg marquardt;<peos>;image processing;image segmentation;image processing;image processing
+interactive animation;object oriented architecture;data dependency networks;lazy evaluation;<peos>;object oriented programming;object oriented programming;object oriented programming;object oriented programming
+surface flattening;texture mapping;geodesic curvature;<peos>;image registration;texture mapping;texture mapping
+routing;routing;routing;<peos>;interconnection networks;loop free routing;loop free routing
+refinement;geometric bounds;constructive solid geometry;boolean algebras;<peos>;computational geometry;constructive computation;constructive computation;constructive computation;constructive algorithms
+distributed representations;recurrent networks;grammatical structure;principal component analysis;<peos>;linguistic modeling;linguistic modeling;linguistic modeling;linguistic modeling
+binary trees;butterfly networks;dilation;<peos>;graph embedding;graph embedding;graph embedding
+packaging;heterogeneous execution environment;heterogeneous programming;<peos>;software engineering;software engineering;software engineering;software engineering;software engineering
+program slicing;software maintenance;decomposition;<peos>;program analysis;program analysis;software engineering
+adaptive programming;self stabilization;<peos>;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems
+performance prediction;parallel processing;numa;shared memory;<peos>;parallel programming;numa systems;performance evaluation
+weight assignment;signature generation;superimposed coding;<peos>;information retrieval;fixed size block codes;fixed size block codes
+concurrent logic;logic programming;<peos>;concurrency;concurrent programming;concurrent programming;concurrent programming
+control;normalization;complexity;program;program transformation;program analysis;parallelization;parallelization;<peos>;program transformation;program transformation;program transformation
+race conditions;shared memory;critical sections;debugging;<peos>;languages;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification
+multimodel;qualitative model engineering;qualitative physics;<peos>;qualitative reasoning;qualitative reasoning;cooperative systems;discrete event systems;cooperative systems;discrete event systems;discrete event systems;cooperative systems
+workload characterization;relational database;workload study;<peos>;data mining;relational databases;workload characterization;relational databases
+error recovery;error recovery;galileo;<peos>;fault tolerance;timing constraints;timing constraints;timing constraints
+bessel functions;modified bessel functions;<peos>;program analysis;software testing;bessel function
+file system;continuous media;file system;simulation;<peos>;multimedia;multimedia;multimedia systems;real time systems;real time systems;real time systems;real time systems;real time systems
+convergence;temporal differences;temporal differences;q learning;action learning;<peos>;temporal logic;temporal logic;temporal logic;temporal logic
+asynchronous servers;speech recognition;window system;<peos>;speech;speech;speech;speech synthesis;speech recognition;speech recognition
+declarative programming;graphical user interfaces;visualization;<peos>;software visualization;visual programming;visual programming
+subexponential bound;linear programming;randomized algorithm;<peos>;approximation algorithms;randomized algorithms
+simulation;virtual reality;user interface;<peos>;computer graphics;computer graphics;computer graphics
+user interface;toolkit;graphical user interfaces;programmer;programmer;programmer;quality;computer science;quality;<peos>
+lexical ambiguity;information retrieval;word sense disambiguation;<peos>;natural language processing;natural language processing;natural language processing
+real time software;software reliability;mutation analysis;stochastic petri net;mutation testing;<peos>;software engineering;real time systems;real time systems;real time systems
+real time systems;synchronous data flow language;lustre;program verification;<peos>;formal methods;synchronous languages;synchronous languages;dataflow analysis
+tractability;inference relations;congruence closure;<peos>;computational complexity;rule induction;rule induction
+discrete random variates;changing distributions;markovian queuing networks;<peos>;stochastic processes;stochastic processes;stochastic processes;stochastic processes;stochastic processes;stochastic processes
+esp;esp;coordination;software process programming;<peos>;software engineering;polis model;polis model;polis model;polis model
+mutation analysis;mutant schemata;<peos>;program analysis;program analysis;program analysis
+parallel execution;logic programming;<peos>;parallel programming;parallel programming;parallel programming
+data model;data model;logic;<peos>;formal methods;object oriented programming;object oriented programming;object oriented programming
+parallelizing algorithm;symbolic computation;maple;<peos>;parallel computation;parallel computation;parallel computation;parallel computation
+template driven interfaces;numerical subroutines;template driven programming;<peos>;finite element method;numerical methods;numerical methods
+weighted nearest neighbor;symbolic features;distance tables;<peos>;machine learning;bioinformatics;machine learning;neural networks
+visual execution;ada tasking;natural language design;<peos>;language;language models;semantic web
+software processes;process evolution;meta process;<peos>;software engineering;software engineering;software engineering;software engineering;software engineering;software engineering;software engineering;software engineering
+wormhole routing;interconnection networks;adaptivity;e cube;<peos>;interconnection networks;adaptive routing;adaptive routing
+x protocol;multiplexors;cscw;<peos>;cscw;computer mediated communication
+random walks;weyl chambers;tensor powers;<peos>;computational complexity;lattice theory;lattice theory
+deadlock free;adaptive routing;wormhole networks;fault tolerance;<peos>;interconnection networks;deadlock freedom;adaptive routing
+vector quantizers;small training sets;codebook;<peos>;information retrieval;vapnik chervonenkis dimension;vapnik chervonenkis dimension;vapnik chervonenkis dimension
+nested graph;deductive databases;type checking;type checking;hypertext;<peos>;object oriented databases;object oriented databases;object oriented databases;object oriented databases;object oriented databases;object oriented databases
+temporal logic;real time systems;real time systems;real time systems;real time systems;<peos>;formal methods;real time systems;real time systems;real time systems;real time systems
+atomic register;complexity;complexity;complexity;complexity;<peos>
+parallel linear programming;fixed dimension;<peos>;computational complexity;parallel computation;parallel computation
+type errors;polymorphic languages;type checking;<peos>;program analysis;type inference;type inference;type inference
+interprocedural slices;program slice;debugging;software maintenance;<peos>;program transformation;interprocedural analysis;interprocedural analysis;program transformation
+groundness analysis;logic programs;abstract interpretation;boolean functions;<peos>;program analysis;groundness analysis;groundness analysis;groundness analysis
+semantics;constraint logic programming;optimization;<peos>;model theory;model theory
+nurbs;geometric constraints;interactive sculpting;lagrangian mechanics;<peos>;physically based modeling;finite element method;finite element method
+shape modeling;fractal priors;<peos>;multiscale modeling;stochastic modeling;stochastic modeling;stochastic modeling;stochastic modeling
+advice functions;advice functions;boolean hierarchy;<peos>;computational complexity;computational complexity;computational complexity
+linear extensions;poset;p complete;<peos>;data structures;fast algorithm;fast algorithm
+computational complexity;rational interpolation;<peos>;computational complexity;sparse approximation;sparse approximation
+path length;binary trees;upper bound;<peos>;graph algorithms;tree structures
+complexity;decision versus search;program checking;<peos>;computational complexity;np completeness;computational complexity
+interpolation;polygonal slices;surface reconstruction;partial curve matching;<peos>;image reconstruction;piecewise linear approximation
+graph coloring;register allocation;optimistic coloring;<peos>;computational complexity;computational complexity;computational complexity
+model checking;modular verification;finite state processes;<peos>;formal methods;formal methods;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification
+multiparty interaction;scheduling;<peos>;process;process management;process management;process management
+ambiguity;context free grammars;<peos>;formal languages;context grammars;context grammars;context grammars;context grammars
+indirect function;c;prefetching;control flow prediction;polymorphism;<peos>;languages;experimentation;object oriented programming;performance prediction;performance prediction;performance prediction
+approximation algorithm;unit capacity;concurrent flow;multicommodity flow;<peos>;interconnection networks;concurrent programming;concurrent programming
+elementary functions;exception handling;<peos>;computational geometry;ieee 802.15.4;ieee 802.16;error estimates
+genetic algorithms;concept learning;adaptive search;<peos>;machine learning;pattern recognition;machine learning
+refined rules;knowledge based neural networks;rule extraction;<peos>;knowledge extraction;knowledge extraction;knowledge extraction
+factorization;matrix polynomials;symmetries;self adjoint if factorizations of selfadjoint;symmetric matrix polynomials;<peos>;self adjoint;self adjoint equations;self adjoint equations
+scheduling;distributed memory multiprocessors;data locality;<peos>;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+virtual lines;locality exploitation;virtual cache;<peos>;design;experimentation;performance;performance;performance modeling;performance analysis;performance evaluation
+data redistribution;distributed memory machines;distributed memory machines;analytical model;<peos>;data structures;distributed computing;data structures;distributed computing
+measure;stochasticity;hard languages;query selection;<peos>;computational complexity;np completeness;np completeness
+cache interference;cache interferences;cache interferences;<peos>;design;experimentation;performance;cache memories;cache memories;cache memories;cache memories;cache memories
+evaluation;browsing;navigation;navigation;<peos>;human computer interface;interactive interfaces;interactive graphics;human computer interface;interactive learning environments;multimedia hypermedia systems
+fixpoint;applicative programs;applicative programs;<peos>;program analysis;static analysis;static analysis;static analysis;static analysis;static analysis;static analysis;static analysis;static analysis;program analysis
+multiple views;requirements specification;inter viewpoint communication;consistency checking;<peos>;requirements engineering;requirements engineering;requirements engineering;requirements engineering;requirements engineering;requirements engineering
+prototyping;process monitoring;experimental design;<peos>;software engineering;software engineering;software engineering;software engineering;software engineering
+time slot interchangers;time division multiplexing;interconnection networks;crosstalk;<peos>;optical networks;optical communications;optical communications
+request combining;multiprocessors;interconnection networks;combining;<peos>;parallel processing;parallel processing;parallel processing
+fault tolerant;routing;mesh architectures;<peos>;interconnection networks;fault tolerance;distributed systems
+generalization;active learning;selective sampling;neural networks;<peos>;machine learning;neural networks;machine learning;neural networks
+index transformation;linear algebra;hypercube;gray codes;hypercube;<peos>;computational geometry;linear algebra;linear algebra;linear algebra;linear algebra
+information systems;mobile environments;<peos>;wireless networks;mobile computing;wireless networks
+line search;guaranteed sufficient decrease;curvature conditions;<peos>;computational geometry;computational geometry;computational geometry
+error estimates;radiosity;hierarchical radiosity;<peos>;mesh refinement;a posteriori estimation;a posteriori estimation
+global illumination;discretization error;error taxonomy;<peos>;error analysis;error analysis;error analysis;error analysis
+spreadsheets;data visualization;tcl;<peos>;visual analytics;visual analytics;visual visualization;visual image processing;visual image processing;visual image processing;visual image processing
+lambert ' s model;body reflectance;radiosity;ray tracing;<peos>;rough surface;rough surface;rough surface
+shape design;triangulated surfaces;shape optimization;mesh smoothing;<peos>;shape modeling;free form modeling;free form modeling;free form modeling
+object oriented programs;unit testing;test case generation;<peos>;software testing;object oriented testing;object oriented testing;object oriented testing;object oriented testing
+multiresolution;wavelets;smoothing;<peos>;curves;curve fitting;curve fitting;curve fitting
+interval logic;concurrent systems;temporal logics;<peos>;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;formal methods;formal methods;verification;verification;verification;verification
+implicit surfaces;implicit surfaces;particle motions;<peos>;particle based rendering;particle based rendering
+surface reconstruction;subdivision;<peos>;computational geometry;piecewise smooth approximation;piecewise smooth approximation
+clustering;radiosity;hierarchical radiosity;hierarchical radiosity;<peos>;computational geometry;computational geometry;approximation algorithms
+character user interfaces;visual design;<peos>;human computer interaction;visual interfaces;visual design;visual design;visual design;visual design
+3d interface;toolkit;constraint resolution;constraint resolution;<peos>;3d interface;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization;3d visualization
+graphical toolkit;two handed interaction;multimodal interaction;<peos>;two handed interaction;two handed interaction;two handed interaction
+memory traffic;cregs;optimistic coloring;<peos>;languages;compiler optimization;memory optimization;compiler optimization
+data relocation;prefetching;data copying;software prefetching;<peos>;data mining;data mining;data mining
+microarchitecture;functional units;hardware synthesis;programmable instruction set computers;<peos>;reconfigurable computing;hardware acceleration;hardware acceleration;hardware programmable chip;hardware synthesis;hardware programmable chip;hardware synthesis;hardware synthesis
+hyperdocuments;dynamic maps;navigation;idms;<peos>;information retrieval;spatial information retrieval;spatial information retrieval;spatial information retrieval;spatial information retrieval
+interaction engine;rich hypertext;hypertext;interaction schemes;<peos>;hypertexts;program analysis;program analysis;program analysis
+collaboration;groupware;coordination;coordination;<peos>;cscw;cscw;cscw
+object merging;collaborative computing;concurrency control;access control;<peos>;cscw;cscw;cscw
+forum;interactive presentations;audience participation;<peos>;cscw;cscw;cscw
+oblivious chaining;oblivious algorithms;prefix graphs;weak superconcentrators;<peos>;computational complexity;computational complexity
+procedures;modularity;formal specifications;theorem proving;<peos>;languages;verification;program analysis;program analysis;program analysis
+trap driven simulation;tapeworm ii;software based simulation;<peos>;software architecture;software architecture;software architecture;software architecture
+branch costs;branch alignment;compiler;<peos>;compiler optimization;embedded systems
+inverse kinematics;nonlinear programming;articulated figure;interactive animation;<peos>;motion estimation;articulated motion;inverse problems;spatial constraints
+solution differentiability;nonlinear control;adjoint multipliers;sensitivity analysis;<peos>;nonlinear systems;riccati equations;riccati equations
+indirect adaptive control;time varying plants;unmodeled dynamics;disturbances;<peos>;robust control;robust control;robust control;robust control
+randomized algorithms;page migration;shared memory;<peos>;multiprocessor systems;multiprocessor systems;distributed algorithms;multiprocessor systems;multiprocessor systems;distributed algorithms
+parallel recursion;fourier transform;sorting;<peos>;data structures;parallel algorithm;parallel algorithm
+network computing;atm;pvm;pvm;<peos>;distributed systems;distributed computing;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+invariants;six points;projective reconstruction;epipolar geometry;<peos>;image registration;image analysis;image analysis;image analysis
+image processing;scan line array;median filtering;convex hulls;<peos>;image processing;scan design;scan design;scan design
+bayesian segmentation;parametric model;parametric polynomial surfaces;gaussian markov random fields;<peos>;image segmentation;bayesian inference;image segmentation;image segmentation
+program correctness;sorting;cryptography;<peos>;program verification;program verification;program checking;program checking
+reflective model;collaborative systems;computational reflection;open abstraction;<peos>;cscw;cscw;cscw
+fortran <digit>;nonlinear equations;global optimization;global optimization;automatic differentiation;<peos>;nonlinear systems;interval arithmetic;interval arithmetic;interval arithmetic;interval arithmetic
+closure analysis;constraint form;functional programs;constraint system;<peos>;program analysis;constraint programming;constraint programming;constraint programming
+cache prefetching;bus based multiprocessors;compiler;<peos>;compiler optimization;compiler optimization;compiler optimization
+optimizations;phase ordering;<peos>;program optimization;program optimization;program optimization
+conjoining;concurrent systems;<peos>;formal methods;formal methods;formal methods;formal methods;formal methods;formal methods
+multialgebraic;functional semantics;nondeterminism;possibility;computational semantics;<peos>;theory;possibility theory;possibility theory
+matrix powers;finite precision arithmetic;pseudospectrum;<peos>;computational complexity;finite difference methods;finite difference methods
+nearest neighbor;nearest hyperrectangle;nested generalized exemplar;nge;<peos>;data mining;nearest neighbor classifier;nested generalized exemplar;nearest neighbor classifier
+reader writer queue;queues;waiting times;exponential service;<peos>;interconnection networks;poisson processes;approximate inference;poisson processes
+binarization;document images;<peos>;image processing;image segmentation;image segmentation;image segmentation
+assignment bound;asymmetric traveling salesman problem;<peos>;combinatorial optimization;asymmetric problem;random graphs
+search;decision tree;determinism;nondeterminism;<peos>;computational complexity;boolean functions;boolean functions;boolean functions
+software architecture;adaptive intelligent systems;software architecture;software engineering;<peos>;software architecture;adaptive systems;mobile computing
+data transmission;cellular telephone networks;mobile computing;tcp ip;<peos>;performance evaluation;cellular networks;performance evaluation
+uncertainty;discrete event systems;finite state machine;<peos>;uncertainty modelling;uncertainty modelling;finite state machines
+parameter estimation;linear evolution equations;parameter identification;time marching;<peos>;costate dynamics;costate dynamics;costate dynamics
+successive approximation method;nonsmooth equations;variational inequalities;maximal monotone operator;nonlinear complementarity problem;<peos>;nonsmooth optimization;nonsmooth optimization;nonsmooth optimization
+lower bounds;exact complexity;string matching;<peos>;computational complexity;computational complexity;computational complexity
+strong connectivity;depth first search;random access;<peos>;computational complexity;parallel computation;parallel computation
+file sharing;distributed networks;integer programming;<peos>;approximation algorithms;distributed computing
+complexity;distribution;languages;<peos>;theory;computational complexity;complexity theory
+private computations;argument functions;boolean functions;<peos>;cryptography;finite field arithmetic;finite field arithmetic
+formal language theory;kolmogorov complexity;pumping lemma;context free languages;<peos>;formal methods;formal languages;context sensitive languages;context sensitive languages;context sensitive languages
+eigenvalues;expansion;regular graphs;spectral method;random walks;<peos>;spectral analysis;spectral analysis;spectral analysis
+minimality;global consistency;constraint networks;path consistency;<peos>;graph consistency;network consistency;network flow;network flow
+service policy;buffer systems;least time to reach bound;<peos>;congestion control;service operations;service operations
+minimum equivalent graph;approximation algorithm;meg;<peos>;meg;meg;approximation algorithm;approximation algorithm
+stability;linear equations;interior point methods;path following;<peos>;primal dual method;primal dual method;newton method
+comparable sets;hierarchy;<peos>;computational complexity;computational complexity;computational complexity
+pcs networks;time warp;distributed simulation;distributed simulation;<peos>;wireless networks;performance analysis;performance analysis;performance analysis
+optimism control;time warp;timed petri nets;<peos>;distributed systems;fault tolerance;probabilistic simulation;probabilistic simulation
+super criticality;critical path analysis;super criticality;<peos>;computational complexity;parallel computation
+buffer management;shared memory;time warp;parallel simulation;<peos>;distributed systems;parallel computing;parallel computing
+language;real time systems;timing analysis;<peos>;real time systems;language transformation;real time systems;timing analysis
+visualizing;real time;preattentive processing;visualization;preattentive processing;<peos>;data visualization;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems
+human figure motion;visual simulation;posture graphs;<peos>;virtual reality;virtual reality;virtual reality
+camera calibration;head eye platform;variable state dimension filter;active vision;<peos>;image registration;head eye tracking;head eye tracking
+scale space;multiscale dilation;scale space expansion;fingerprints;<peos>;mathematical morphology;multiscale analysis;multiscale analysis;multiscale analysis
+genetic algorithms;dna fragment assembly;edge recombination crossover;<peos>;bioinformatics;dna sequencing;dna computing
+unsupervised learning;expectation maximization;em algorithm;<peos>;computational biology;expectation maximization algorithm;em algorithm;em algorithm
+machine learning;term bias;bias selection;meta bias;<peos>;machine learning;artificial neural networks;machine learning
+processor mapping;data redistribution;distributed memory machines;<peos>;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures;data structures
+id3;backpropagation;text to speech mapping;<peos>;machine learning;error detection;error estimation;error estimation;error estimation
+weakly hard problems;weak completeness;martingales;martingale diagonalization;<peos>;computational complexity;computational complexity;weakly hard problems;weakly leq;computational complexity
+pattern matching;adaptive automata;dag automata;<peos>;data structures;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems;adaptive systems
+simple paths;graph databases;relational databases;<peos>;graph theory;graph theory;graph theory
+atmospheric correction;remotely sensed;land cover;<peos>;image processing;image processing;image processing;image processing
+connected components;parallel machines;pram;cluster dynamics;<peos>;interconnection networks;performance analysis;distributed systems;distributed systems;performance analysis
+message passing;distributed shared memory;networks of workstations;pvm;<peos>;parallel computation;parallel computation;parallel computation;parallel computation
+chemical process optimization;gigabit network;simd;<peos>;network optimization;stochastic optimization;stochastic optimization
+coarse grain parallelism;parallelizing compiler;interprocedural analysis;<peos>;compiler optimization;interprocedural analysis;compiler optimization;interprocedural analysis
+relative debugging;numerical models;debugging;<peos>;finite element method;numerical analysis;parallel computation
+release consistency;hardware coherent multiprocessors;distributed shared memory;<peos>;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+hpf;compiler;data availability;data availability;collective communication;<peos>;compiler optimization;parallel programming;parallel computation
+compiler;cfd;multiprocessors;performance profiling;parallel architectures;<peos>;performance;performance optimization;performance optimization;parallel computation
+hardware software co synthesis;embedded systems;embedded design;<peos>;embedded systems;embedded systems;embedded systems;embedded systems
+register assignment;embedded systems;code generation;<peos>;design;design;embedded systems;embedded systems;embedded systems;embedded systems
+multi tasking;software synthesis;information processing system;embedded systems;<peos>;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems;real time systems
+grain size;network of workstations;distributed computing;load balancing;<peos>;distributed computing;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+code compaction;dsps;integer programming;<peos>;low power;time constraints;time constraints;time constraints
+dsp;dynamic scheduling;dynamic scheduling;<peos>;high level synthesis;dsp;dsp;low level synthesis
+scheduling;3d design space;design space exploration;<peos>;3d design;3d design;3d design;3d design;3d reconstruction
+power analysis;low power;scheduling;dsp;<peos>;low power;embedded systems;embedded systems
+bounded skew clock;steiner routing;elmore delay;boundary merging and embedding;dynamic programming;<peos>;approximation algorithm;bounded skew clock;boundary merging;boundary merging
+wire sizing;buffer insertion;low power;timing optimization;<peos>;low power;low power;low power design;power consumption
+decision diagrams;symbolic model checking;<peos>;formal methods;symbolic computation;symbolic computation;symbolic computation
+petri nets;state based models;concurrency;causality;resynthesis;<peos>;formal methods;state based model;state based model;state based model;asynchronous systems;state based model;asynchronous systems;state based model;asynchronous systems;state based model;asynchronous circuits
+design verification;simulation;test pattern generation;gate substitution error;input count errors;<peos>;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification;verification
+bridging faults;stuck at information;fault diagnosis;<peos>;fault diagnosis;byzantine failures;byzantine failures
+instruction selection;binate covering;code generation;directed acyclic graph;branch and bound;<peos>;low power;low power design;low power design;low power design;low power design
+wiresizing;interconnects;multiple sources;elmore delay;<peos>;interconnection networks;elmore delay
+low power;data path synthesis;behavioral synthesis;scheduling;clock selection;<peos>;low power design;low power design;low power design;low power design
+iteration;abstraction;iterator;object oriented programming;<peos>;program verification;object oriented programming;object oriented programming
+mean square discrepancy;randomized nets;randomization;<peos>;computational complexity;computational complexity;computational complexity
+bounded time warp;yawns;discrete event simulation;synchronization;queuing networks;<peos>;parallel computation;parallel computation;parallel computation
+distributed memory;parallel algorithm;distributed memory machines;prefetching;parallel algorithms;<peos>;parallel computation;parallel computation;parallel computation
+deadlock free;routing;cut through;store and forward networks;wormhole switching;<peos>;interconnection networks;quality of service;quality of service
+failures;synchronization;fault tolerance;synchronization;fault tolerance;<peos>;distributed systems;distributed systems;distributed systems;distributed systems;fault tolerance
+static assignment;majorization;majorization;<peos>;stochastic programming;stochastic programming;stochastic programming
+message overhead;replica control;<peos>;distributed systems;performance analysis;performance analysis
+divide and conquer;meshes;multicomputers;binomial tree;dilation;contention;<peos>;interconnection networks;parallel computation;parallel computation
+file access;scientific workloads;multiprocessor;workload study;<peos>;parallel processing;parallel processing;parallel processing;parallel processing
+direct execution simulation;message passing;parallel programs;parallelizing compiler;<peos>;parallel computation;parallel computation;parallel computation;parallel computation;parallel computation
+tridiagonalizing;diagonalizing symmetric matrices;repeated eigenvalues;tridiagonalization;eigenvalue decomposition;<peos>;matrix factorization;matrices;diagonalizing;diagonalizing;diagonalizing;diagonalizing;eigenvalue problems
+minimum degree;matrix factorization;<peos>;approximation;approximation algorithms;sparse representation
+group invariance;convex matrix analysis;semidefinite programming;<peos>;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis;nonsmooth analysis
+memory hierarchy;workload locality;<peos>;data mining;approximation algorithms;parameterized complexity
+page cache;vliw;dynamic rescheduling;disk caching;<peos>;design;experimentation;vliw;vliw;object oriented programming;object oriented programming
+parallel scheduling;super blocks;code scheduling;list scheduler;<peos>;compiler optimization;parallel computing
+scheduling;loops;non numeric programs;speculation;speculation;<peos>;program synthesis;non numeric systems;utility computing
+confidence;conditional branches;resource allocation;dynamic confidence;<peos>;data mining;confidence interval;conditional random fields;conditional random fields
+instruction fetch;vliw;compressed encodings;silo;<peos>;design;experimentation;vliw;compressed domain;compressed domain;compressed domain;compressed domain design;vliw architectures;low power design
+optical flow;variable order parametric models;local deformations;brightness segmentation;<peos>;image based modeling;optical flow;parametric modeling;parametric modeling;parametric modeling;parametric modeling;parametric modeling
+scale space;quadratic nonlinearity;scale selection;hilbert transform;linear filtering;<peos>;feature detection;feature detection;feature detection;feature detection
+software pipelining;performance;<peos>;design;resource constraints;resource constraints;compiler optimization;compiler optimization
+fully commutative elements;coxeter groups;bruhat ordering;distributive lattice;bruhat ordering;<peos>;aperiodic integrals;fully commutative element;fully commutative element;fully commutative algebra
+delay model;vlsi;interconnects;ramp input;interconnect;<peos>;interconnect;interconnect;physical design;performance optimization
+register transfer level;switching activity;power consumption;<peos>;low power circuit;rtl design;rtl design;power estimation
+simultaneous transistor;interconnect sizing;optimization;driver buffer;wire sizing;<peos>;interconnect;simultaneous optimization;simultaneous optimization;transistor sizing
+vlsi;circuit partitioning;cluster removal;iterative improvement;<peos>;circuit optimization;look ahead algorithm;look ahead algorithm;look ahead algorithm
+fail silent nodes;distributed systems;fault tolerance;<peos>;fault tolerance;fault tolerance;fault tolerance
+lower bound;optimal schedules;parallel prefix;resource constraints;parallel random access machine;<peos>;parallel computation;parallel computation;parallel computation;parallel computation
+latch;finite state machine;<peos>;formal methods;gate level synthesis;gate level optimization;gate level synthesis
+rigidity checking;perspective projection;structure from motion;structure from motion;<peos>;3d reconstruction;3d reconstruction;3d reconstruction;3d reconstruction;3d reconstruction
+focus range sensor;depth from defocus;depth from defocus;<peos>;image based rendering;image based rendering;image based rendering
+motion estimation;quadtree;multiresolution;<peos>;image processing;multiresolution representation;multiresolution representation
+petri nets;ada tasking;deadlock analysis;reachability analysis;<peos>;formal methods;deadlock detection;deadlock detection
+strong unstable predicates;distributed programs;<peos>;program analysis;distributed systems;distributed systems;distributed systems;distributed systems;distributed systems
+high quality tests;path delay faults;delay testing;<peos>;fault diagnosis;untestable test;untestable test;functional testing;functional testing
+stability;stochastic uncertainty;optimization;output feedback;riccati equation;mu synthesis;<peos>;stochastic systems;stochastic systems;stochastic systems;stochastic systems;stochastic systems
+preconditioning;orthogonal collocation equations;boundary value problems;incomplete lu factorization;<peos>;finite difference methods;finite difference methods;finite difference methods
+software reuse;classification;classification;<peos>;genetic networks;evolutionary computation;evolutionary computation
+graduated assignment;graph matching;graduated nonconvexity;attributed relational graphs;<peos>;graph theory;two way graph matching;two way graph matching
+isomorphism;complexity;first order projections;<peos>;computational complexity;computational complexity;computational complexity
+stochastic scheduling;variable profile;precedence constraints;makespan;<peos>;combinatorial optimization;stochastic programming;stochastic programming
+bounded queries;approximation;computational complexity;graph coloring;<peos>;computational complexity;approximation algorithms;np hardness
+resource bounds;self stabilizing;message driven protocols;automata theory;<peos>;distributed systems;fault tolerance;distributed systems;fault tolerance
+wormhole routing;wormhole routing;randomized algorithm;fat tree;<peos>;interconnection networks;interconnection networks
+communication latency;path multiplexing;multiprocessor;time division multiplexing;<peos>;optical networks;optical communication;optical communication
+error detecting;distributed algorithms;interconnection networks;fault index;<peos>;fault tolerance;distributed systems;fault tolerance
+parallel scheduling;load balancing;scheduling;hypercube;<peos>;parallel algorithm;parallel algorithm;parallel algorithm
+performance memory;time warp;time warp;processor scheduling;<peos>;parallel computing;performance evaluation;parallel processing
+crash resilience;dynamic networks;self stabilization;<peos>;fault tolerance;fault tolerance;fault tolerance
+graph partitioning;sequential diagnosis;diagnosability;interconnection graph;<peos>;interconnection networks;fault tolerance;multiprocessor systems;interconnection networks
+wormhole routing;adaptivity;adaptive routing;virtual networks;<peos>;quality of service;adaptive routing;quality of service
+energy consumption;nomadic computing;arq;arq;<peos>;wireless networks;energy consumption;energy consumption;formal methods
+nfs;wireless links;testbed;<peos>;wireless lan;wireless lan;wireless lan
+call setup;path migration;ieee <digit>;dqdb;<peos>;wireless networks;wireless networks
+supervisory control;partial observation;prioritized synchronization;observability;co observability;<peos>;nondeterministic systems;decentralized control;decentralized control;decentralized control;decentralized control
+predictor corrector;saddle point;stochastic programming;optimal control;<peos>;nonlinear programming;nonlinear programming;nonlinear programming;nonlinear programming
+high level synthesis;vlsi;<peos>;design automation;design automation;design automation;vlsi design;vlsi design;vlsi design
+orthogonal decomposition;weighted least squares;qr factorization;ill conditioning;<peos>;kernel methods;floating point arithmetic;floating point arithmetic

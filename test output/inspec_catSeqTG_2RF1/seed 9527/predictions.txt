@@ -1,0 +1,500 @@
+print materials;libraries;<peos>;information retrieval;literature review;information retrieval
+systemological;systemological;complex systems;functional flow;nfo ufo;<peos>;software engineering;object oriented programming;object oriented programming;object oriented programming
+fuzzy bayesian inference;decision making;pseudofuzzy quantities;modus ponens rule;<peos>;fuzzy sets;fuzzy sets;fuzzy sets
+safe problem;matrices;<peos>;formal methods;modulo theory;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo <digit> matrix;modulo
+accelerated simulation;steady state availability;non markovian systems;<peos>;stochastic simulation;non markovian systems;non markovian systems
+finite element;optimal control;elliptic equations;conjugate conditions;<peos>;finite element method;finite element method
+complex systems;admissible;fuzzy set;fuzzy set;<peos>;fuzzy logic;fuzzy logic;fuzzy logic
+decomposition;boolean functions;q partitioning;decomposition clone;<peos>;cryptography;boolean functions;boolean functions
+extrapolation;random process;mixed central moment functions;nonlinear extrapolation;<peos>;nonlinear analysis;nonlinear analysis;nonlinear analysis
+linear algebraic equations;linear algebraic equations;<peos>;formal methods;lambda calculus;lambda calculus
+compatibility;linear constraints;natural numbers;<peos>;formal methods;systems of systems;systems of systems;systems of systems;systems of systems;cybernetics;mixed methods
+books;just in time acquisitions;<peos>;inventory;information retrieval;information retrieval
+lower bounds;error correcting codes;z channel;<peos>;error correction codes;error correction codes
+programming;abstraction;abstraction;bipolar function;<peos>;formal languages;bipolar languages;formal languages
+ofdm;adaptive vector channel allocation;scalable video;orthogonal frequency division multiplexing;channel estimation;<peos>;video communications;adaptive control;video coding
+wap;wap;site management;wireless markup language;hypertext markup language;<peos>;artificial intelligence;artificial intelligence;artificial intelligence;artificial intelligence
+electronic tendering;government procurement;nondiscriminating;internal procurement;<peos>;electronic commerce;electronic commerce;electronic commerce;electronic commerce;electronic commerce;electronic commerce;electronic commerce;electronic commerce;electronic commerce
+mobile manipulator;bridge crack;binocular charge coupled devices;<peos>;structural health monitoring;bridge inspection;bridge inspection;binocular vision;binocular vision
+building management systems;facilities management;internet;facilities management systems;database integration;distributed component object model;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+user acceptance;building management system;technology acceptance;<peos>;user study;user acceptance model;user study;user study;user study;user study
+collective dose;geographic information system;geographic information system;<peos>;gis;population population;collective behavior;geographic information system
+graphical user interface;phantoms;monte carlo;segmentation;computed tomography;magnetic resonance imaging;<peos>;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo methods;monte carlo
+out of print music;music;<peos>;information retrieval;music information;music information retrieval
+piezoelectric;cantilever;inverse method;density distribution profile;<peos>;finite element method;piezoelectric actuator;piezoelectric actuator
+quantum properties;spin state;quantum memory;magneto optical resonance;<peos>;quantum computing;quantum computing
+decoupling;decoherence;quantum computing;<peos>;quantum computing;quantum computing
+social percolation;mass media;phase transition;<peos>;cybernetics;social media
+long range dependence;confidence;detrended fluctuation analysis;periodogram regression;<peos>;finance;approximate algorithm;approximate algorithm
+simulation;evacuation processes;bionics;cellular automaton;chemotaxis;<peos>;cellular automata;cellular automata;cellular automata;cellular automata
+dynamical transition;periodic motions;recurrent bus;nonlinear map;<peos>;chaos;recurrent network;recurrent neural network
+cellular automata;predation;penna model;<peos>;monte carlo simulation;penna model
+option pricing;path integral;non gaussian fluctuations;levy distributions;<peos>;finance;finance;option pricing;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated distribution;truncated
+quantum market game;quantum game;<peos>;game theory;quantum game;quantum game
+rules;neural networks;grammars;<peos>;artificial grammar;evolutionary computation;evolutionary computation;evolutionary computation
+streaming;interference;power law;cellular automata;<peos>;wireless communication;interference channel;cellular automata
+tollbooths;highway traffic;toll collection;phase separation;lane expansion;<peos>;chaos;nagel schreckenberg model;nagel schreckenberg model
+bagsik oscillator;complex numbers;<peos>;fault tolerance;statistical process;statistical process control
+variance;firm growth;scaling;independent businesses;<peos>;finance;variance analysis;variance analysis
+markov behavior;foreign exchange markets;tick;<peos>;finance;markov processes;tick processes
+stock market;dynamical systems;<peos>;chaos;recurrent neural network;chaos;chaos
+time series;high frequency;recurrence quantification analysis;recurrence plots;<peos>;finance;nonlinear analysis;nonlinear analysis;nonlinear analysis
+futures volatility;singular spectrum analysis;logarithmic standard deviations;<peos>;finance;realized volatility;realized volatility;volatility model
+phase control;higher order squeezing;quantum fluctuations;<peos>;quantum computing;quantum computing
+self consistent;traffic flow;vehicular boltzmann equation;dispersion model;<peos>;vanet;self consistency;vehicular networks
+mixture of experts;classification;hierarchical mixture model;maximum likelihood;<peos>;em algorithm;mixture model;mixture model;maximum likelihood estimation
+emarketing;internet;website design;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+relationship marketing;hotel;content analysis;web marketing;web presence;<peos>;internet of marketing;web based services;web based marketing;web based marketing
+online auctions;dynamic pricing;lodging industry;<peos>;e commerce;online pricing;online pricing;online pricing
+affine invariants;convex polygons;object recognition;<peos>;computational geometry;convex invariant;convex hull
+spiht;image coding;wavelet transform;zerotree quantization;set partitioning in hierarchical trees;<peos>;embedded systems;real time coding;real time compression;real time compression
+geometric moments;edge detection;texture segmentation;accumulation moments;<peos>;image processing;local moments;matrix factorization
+image denoising;scale and space consistency;wavelet transform;geometric constraints;<peos>;image denoising;image denoising;wavelet transform;image denoising;image denoising;wavelet transform;wavelet transform
+object contours;contour detection;watershed;<peos>;image segmentation;video surveillance;video segmentation
+image compression;image compression;sparse representation;<peos>;image compression;image compression;image compression
+edge detection;double thresholding;wavelet noise;<peos>;image processing;image processing;spatial filter;spatial filter;wavelet transform
+computational capacity;artificial neural network;olfaction;olfactory bulb;<peos>;computational geometry;olfactory system;olfactory system
+object based coding;wavelet transform;lossless coding;region of interest;<peos>;image compression;<digit> d mri;<digit> d mri;lossy compression;<digit> d mri
+linear control;stabilizer design;mu synthesis;<peos>;electric motors;optimal control;optimal control;optimal control
+resonant grounding;distribution systems;fault detection;<peos>;formal methods;resonant systems;resonant source;distribution system;resonant source;distribution network;resonant source;fault tolerance;resonant source;fault tolerance;resonant source;fault tolerance;resonant source;fault tolerance;resonant source;fault tolerance;resonant source
+power electronics;simulation;<peos>;energy efficiency;energy efficiency;energy efficiency;energy efficiency;energy efficiency
+field test;generator control;power system simulation;<peos>;low power design;power system reliability;power system reliability;power system reliability;power system reliability;power system reliability
+power;power;bulk electric systems;<peos>;low power;low power design;power management;power management
+control centers;energy management system;energy management system;security control;load following control;<peos>;security;energy efficiency;software architecture;energy efficiency;software architecture
+virus hunting;worms;hackers;<peos>;security;security;intrusion detection;intrusion detection;security;security;software security;intrusion detection;intrusion detection;security;intrusion detection;security;software security;intrusion detection
+integration;enterprise application integration;<peos>;software integration;climate change;climate change
+system risk;security;risk management;<peos>;security;risk management;risk management;risk management
+optimality;auditory information processing;action recovery;synaptic depression;phi divergences;<peos>;neural networks;stochastic modeling;auditory processing
+facility construction;information network;sewage;<peos>;or in telecommunications;electrical machines;electrical machines;electrical machines
+data hiding;capacity;watermarking;sparse model;<peos>;steganography;autoregressive model
+geometrically invariant;watermarking;feature points;delaunay tessellation;<peos>;digital watermarking;self synchronizing transform;self synchronizing transform
+color plane interpolation;alternating projections;demosaicing;demosaicing;<peos>;image enhancement;color image enhancement;color filter;color filter
+computational color constancy;retinex;gamut mapping;<peos>;image processing;image processing;image processing;image processing
+computational color constancy;retinex;gamut mapping;<peos>;computer vision;computational geometry;reflectance spectroscopy;image processing
+image metrics;synthetic images;perceptual color;image rendering;<peos>;image compression;image compression;image compression
+controllability;shells;minimal time;<peos>;finite element method;exact algorithm
+friction compensator;pneumatic control;stick slip;<peos>;pid control;pneumatic control;pneumatic control
+performance comparison;pid control;dead time compensator;robustness;<peos>;robust control;pid control;pid control
+waiting;wavelength services;<peos>;optical communications;wavelength division multiplexing;wavelength division multiplexing
+state feedback control;linear systems;uncertainties;dynamical systems;<peos>;robust control;adaptive control;adaptive control
+lateral inhibition;unsupervised learning;neural network;<peos>;neural network;reinforcement learning;neural network
+predictive control;non uniformly sampled systems;sampling patterns;causality constraint;<peos>;robust control;multirate systems;multirate systems
+observer;output injection observers;<peos>;compressed sensing;sparse representation;sparse representations;sparse representations
+subspace identification;principal component analysis;errors in variables;model identification;<peos>;feature extraction;subspace learning;subspace learning
+nonlinear modeling;fuzzy control;mcfc stack;neural networks;neural networks;<peos>;adaptive control;adaptive control;adaptive control;adaptive control
+volume segmentation;deformable surfaces;haptic;<peos>;computer aided diagnosis;3d segmentation;3d segmentation;3d segmentation
+surgical navigation;medical;medical;image guided surgery;image guided surgery;<peos>;computer assisted surgery;computer assisted surgery;computer assisted surgery;image processing;computer assisted surgery;computer assisted surgery;computer assisted surgery;computer assisted surgery;computer assisted surgery;computer assisted surgery;computer assisted surgery;computer assisted
+lung metastasis;visualization;ct images;computed tomography;<peos>;image processing;knowledge based systems;lung segmentation
+finite element;kidney;trauma;viscoelastic;hyperelastic;<peos>;finite element method;finite element method
+anatomical scenes;web;video animation;<peos>;animation;3d animation;web based animation;3d animation;web based animation;3d animation;web server;video editing
+mesh cutting;cut path;virtual scalpel;<peos>;virtual reality;haptic rendering;haptic rendering
+image mosaics;local alignment;<peos>;computer vision;panoramic vision;panoramic geometry;panoramic geometry
+scale invariant;segmentation;image segmentation;neural net;<peos>;magnetic resonance imaging;magnetic resonance imaging;magnetic resonance imaging
+phase unwrapping;speckle;interferogram contour maps;<peos>;optimization;hybrid algorithm;hybrid algorithm
+strain contouring;gabor filters;strain segmentation;moire pattern;<peos>;image processing;optical flow;optical flow;optical flow
+denoising;position estimation;tracking;<peos>;biometrics;optical flow;optical flow;optical flow
+adaptive filtering;noise reduction;hue saturation;edge detection;<peos>;image denoising;color filter;color filter;color filter
+optical recognition;scale invariance;mellin radial harmonic decomposition;logarithmic radial harmonic filter;<peos>;image processing;mellin transform;mellin transform
+region of interest;camera calibration;radon transform;<peos>;image processing;image processing;region of interest detection;intelligent control
+autofocus;eccentric light beam;semiconductor laser;<peos>;x ray tomography;eccentric light beam;eccentric light beam;eccentric light beam;eccentric light beam;eccentric light beam;eccentric light beam;eccentric light beam
+<digit> d mapping;active laser triangulation;packing;<peos>;computer aided design;robotic;active manufacturing;active manufacturing;active vision
+moving cast shadow;shadow detection;shadow confidence score;<peos>;computer vision;color segmentation;monocular vision;color segmentation
+error in curvature;free form surfaces;free form surfaces;mpeg <digit>;<peos>;computer aided design;surface reconstruction;multi scale surface;multi scale surface;multi scale surface;multi scale surface;multi scale surface;multi scale surface;multi scale surface
+restoration;broadband;liquid crystal optical phased;optical phased;image restoration;<peos>;optical communications;digital restoration;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;digital tv;optical communications
+one step digit set;signed digit adder;symbolic substitution;<peos>;computer arithmetic;modified signed digit adder;modified signed digit adder
+integral imaging;three dimensional imaging;micro optics;<peos>;image processing;nonstationary imaging;nonstationary imaging;nonstationary imaging;nonstationary imaging;nonstationary imaging;nonstationary imaging;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal;nonstationary signal
+diffraction limit;circular mask;far field diffraction;s function;<peos>;image processing;periodic mask;periodic imaging
+binocular model;figure ground segmentation;inverse fourier transform;<peos>;image segmentation;translucent network;fourier transform
+color image capture;tunable filter;principal eigenvector;<peos>;image processing;multispectral imaging;color capture;spectral analysis
+image restoration;least mean square;regularization;iterative algorithm;<peos>;robust estimation;least mean fourth order functional functional magnetic resonance;least mean fourth order method
+motion estimation;dynamic programming;correspondence vector field;<peos>;image processing;motion estimation;motion estimation;motion estimation;motion estimation
+centroid detection;optical correlation;modulus of the moment function;spatial light modulators;<peos>;image processing;image processing;optical communications
+block truncation;bit plane coding;discrete cosine transform;wavelet transform coding;absolute moment btc;<peos>;image compression;image compression;image compression;image compression
+image editing;plenoptic function;<peos>;computer vision;image editing;plenoptic function;plenoptic function
+zero order diffraction;digital holography;laplacian;fresnel integral;<peos>;image processing;hologram;image processing
+image thresholding;bayes formula;maximum entropy principle;entropy;<peos>;image segmentation;bayesian analysis
+digital watermarking;fuzzy logic;fuzzy logic;<peos>;digital watermarking;adaptive watermarking;adaptive watermarking
+optical encoding;correlation;optical correlator;<peos>;image compression;color quantization;color quantization;color quantization
+multi criterion;target level;target level;chebyshev metric;edgeworth pareto hull;<peos>;combinatorial optimization;multi criterion optimization;chebyshev polynomials
+mental impairments;concussion;<peos>;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;computer mediated communication;media in education
+regularization;linear regression;pseudoinverse method;bayesian method;<peos>;bayesian analysis;bayesian inference;bayesian inference
+choice;choice;choice rules;borda count;self consistent choice;self consistent choice;<peos>;decision analysis;choice theory;choice theory
+inverse problem;hierarchical structure;parabolic equation;heat conduction;<peos>;cybernetics;hierarchical model
+self calibration;image derivatives;active vision;<peos>;image processing;image processing;image reconstruction;image compression;pinhole vision;image compression;image compression
+inverse problem;mathematical model;ion exchange;compressible ion;<peos>;finite element method;inverse problem;inverse problem
+multiprocessor;jets;message passing interface;<peos>;parallel computing;multiprocessor systems;gas dynamics;gas dynamics
+hybrid simulation;space plasmas;kelvin helmholtz instability;particle mixing;kelvin helmholtz instability;<peos>;finite volume method;electromagnetic simulation;space plasma model
+electromagnetics;computer;algorithms;fdtd;<peos>;theory;finite element method;computational complexity
+geometrical optics;indoor propagation;wall construction;<peos>;wireless sensor;indoor optics;indoor optics;indoor optics;indoor optics
+dynamic programming;flip analysis;<peos>;game theory;game theory;game theory
+university;process;management;education;<peos>;education;process improvement;process improvement;education
+pert;spreadsheet;critical path;<peos>;software;software engineering;project management;project management
+simlib;discrete event simulation;<peos>;formal methods;object oriented simulation;object oriented simulation;object oriented simulation
+evpi;evpi;evpi;<peos>;cybernetics;probability distribution
+surface reconstruction;structure from motion;lambertian surface;<peos>;computer vision;face recognition;face recognition;face recognition
+classroom;microsoft powerpoint;sample feedback;<peos>;pedagogy;classroom management;classroom management
+monetary decisions;stochastic dynamic programming;utility theory;bayesian probability revision;<peos>;game theory;game theory;bayesian analysis
+interactive histograms;monte carlo simulation;<peos>;data mining;monte carlo simulation;interactive methods;monte carlo methods
+management science;spreadsheets;decision support systems;<peos>;education;decision support systems;decision support systems;decision support systems;decision support systems
+modeling;management science;numeracy;<peos>;pedagogy;pedagogy;pedagogy
+business school management;algorithms;management science;<peos>;education;business education;business education;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business intelligence;business
+academic librarian;academic libraries;gift processing;academic libraries;<peos>;library information;information science;information retrieval;information retrieval
+fair market;out of print;print books;<peos>;information retrieval;fair translation;print wall wall;print wall wall;print wall discrimination;fair media
+fair market;out of print;<peos>;finance;finance;decision analysis
+materials;history of science;policy formation;<peos>;cybernetics;policy analysis
+information architecture;information architecture;<peos>;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems
+academic library;acquisitions;<peos>;bibliometrics;citation analysis
+acquisitions;bell library;<peos>;finite element method;james ford;james library
+underground poetry;poetry;culture;library collections;<peos>;computer mediated communication;media in education;media in education;media in education;media in education;media in education;media in education;media in education;media in education;media in education;media in education;media in education;media in
+emotion;bounded rationality;hanoch;<peos>;affective computing;emotion recognition;emotion recognition
+emotions;bounded rationality;kaufman;<peos>;affective computing;affective computing;affective computing
+emotion;self control;emotional choice;<peos>;affective computing;emotion recognition;emotion recognition;emotion recognition
+process innovations;life cycle;industry evolution;<peos>;business process management;product development;product development;product development;product development;product development
+discounted utility;hyperbolic discounting;hyperbolic models;<peos>;finance;discounted utility model;discounted utility functions;discounted utility functions
+labor market;institution;mobility;<peos>;finance;decentralized strategy;decentralized strategy;decentralized strategy
+ultimate control;control;collective choice;<peos>;cybernetics;ultimate theory
+information architecture;bilingual web sites;card sorting;<peos>;internet;internet;web services;speech perception;speech perception
+modularity;property rights;alienation;<peos>;technology;technology;technology organization;technology organization;technology organization;technology organization
+urban internet;urbanism;electronic environment;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+cooling lines;injection moulds;boundary element method;injection moulding;<peos>;finite element method;three dimensional modeling;three dimensional simulation;boundary element method
+safety;strategic stocks;requirements planning;simulation;<peos>;decision support systems;face management;face management;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face modeling;face
+impulse turbine;wave energy power;rapid prototyping;fused decomposition modelling;concurrent engineering;<peos>;finite element method;finite element method
+dispatching;routeing strategy;flexible manufacturing systems;makespan;<peos>;scheduling;combined strategy;performance evaluation
+fuzzy decision system;flexible manufacturing system;scheduling;fuzzy logic;<peos>;fuzzy logic system;fuzzy logic system;fuzzy logic system;fuzzy logic
+design to cost system;product development;computer aided design;knowledge based system;knowledge based system;injection moulding;<peos>;conceptual design;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;cad model
+frictional boundary condition;fractals;aluminium alloy;fractal dimension;<peos>;finite element method;machining element;frictional conditions
+machining;support structure;layered manufacturing;material removal;<peos>;manufacturing tool;layer nc machining;layer based machining;support vector machines
+s biggest battery;stabilise;alaska;<peos>;education;stabilise;world wide web;stabilise;voltage scaling;stabilise;voltage control;numerical methods;numerical methods
+information interaction;information architecture;information architecture;<peos>;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system;information system
+all optical logic;semiconductor optical amplifiers;mutual gain;<peos>;wavelength division multiplexing;optical communications
+computed tomography;x ray computed tomography;filtered backprojection;alternating minimization;<peos>;image restoration;x ray tomography;x ray tomography
+pet;ct;positron emission tomography;image fusion;mutual information;<peos>;magnetic resonance imaging;ridged imaging;ridged imaging
+food processing;meat product;<peos>;machine learning;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry;food industry
+statistical inference;partial prior information;gauss ' inequality;<peos>;bayes;bayesian inference;bayesian inference
+global stability;attracting set;reaction rate;saturation kinetics;saddle connection;<peos>;chaos;enzyme kinetics
+spatial rainfall;crop production;southern africa;zimbabwe;cross validation;<peos>;precision agriculture;spatial modeling;spatial modeling;spatial analysis;spatial analysis;spatial analysis;spatial analysis;spatial analysis;spatial analysis;spatial analysis;spatial analysis;crop modeling;spatial analysis;spatial analysis;spatial analysis;crop
+all spanning trees;spanning tree;minimal paths;<peos>;graph algorithms;flow synthesis;flow synthesis
+nonlinear systems;injection moulding;injection moulding;weak solutions;<peos>;finite element method;nonisothermal flow;non newtonian fluid;non newtonian fluid
+operations research;linear inequalities;mixed programming;<peos>;finance;marketplace;firm management;firm management;firm management
+sliding mode control;second order systems;moving switching line;reaching law;<peos>;robust control;discrete time systems;discrete time systems;discrete time systems;discrete control systems;discrete control systems;discrete control systems;discrete control systems;discrete control systems;discrete control systems;discrete control systems;discrete control
+navigation;information architecture;usability;user studies;<peos>;user interfaces;information systems;user interfaces;information systems;information systems;information systems;user study;user study;user study;user study;user study;user study;user study;user study;user study;user study;user study
+optimization;advertising;nonlinear programming;<peos>;marketing;advertising;advertising;advertising planning;advertising planning;advertising planning
+xor gate;semiconductor optical amplifiers;cross gain modulation;semiconductor optical amplifiers;<peos>;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical integrated circuits;optical
+trust;online advice;internet;<peos>;e commerce;online learning;online learning
+social impact;internet;gambling;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+computer mediated communication;remote management;intranets;remoteness;<peos>;electronic media;remote sensing;remote sensing;remote sensing
+collective action;internet;collective action;reverse influence;<peos>;internet;internet communication;online communication
+explanations;deception;virtual communities;<peos>;computer mediated communication;virtual communities;virtual communities
+computer mediated group;group interaction;deindividuation;computer mediated communication;social identity theory;<peos>;computer mediated communication;asynchronous interaction;social media;asynchronous interaction;social media
+viability;participation;internet;data screening;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+internet;dos;dropout;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+pervasive computing;mobility;middleware;<peos>;cloud computing;pervasive computing
+psychology;internet;computer systems;<peos>;computer mediated communication;internet;computer science education;computer science
+depth of focus;chlorophyll fluorescence;photosynthetic function;chlorophyll fluorescence;<peos>;cell imaging;microscope imaging;microscope imaging;microscope imaging;microscope imaging
+allan variance;fractal brownian motion;<peos>;reliability;allan variance;allan variance;fractal dimension
+sliding mode;convex optimization;convex programming;penalty functions;<peos>;computational geometry;sliding mode;sliding mode;sliding mode
+efficiency;complex structure systems;recovery;<peos>;formal methods;real time systems;complex systems;real time systems
+combustion engines;internal combustion engines;plasma control;<peos>;plasma simulation;low temperature control;low temperature control
+optimization;computational processes;computational clusters;metacomputational media;<peos>;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software
+rearrangement;failure tolerance;hypercube;single element permutations;<peos>;finite element;p element;p element method
+cooperative games;characteristic function;<peos>;game theory;game theory
+transport nets;territory;branch points;<peos>;integer programming;heterogeneous networks;heterogeneous networks;heterogeneous networks
+knowledge management;key performers;<peos>;low power;key management;power system;power system;power system
+control;active systems;motivation;<peos>;multi agent systems;criteria of criteria;criteria of criteria
+flexibility;complex technical systems;uncertainty;fuzzy mathematical models;<peos>;fuzzy logic;fuzzy logic;fuzzy logic
+fuzzy logic adaptation;deformable space;<peos>;fuzzy control;fuzzy logic;fuzzy logic
+hidden convexity;discrete time systems;conical control;<peos>;finite state system;finite dimensional systems;finite dimensional analysis
+stable polynomials;linear discrete systems;kharitonov theorem;<peos>;nonlinear systems;stable set;stable set;stable set
+stochastic systems;random jump;phase trajectory stability;markov process;<peos>;stochastic processes;phase transition;phase transition;phase transition
+optimal control;control problem;fixed ends;<peos>;nonlinear control;nonlinear control;nonlinear control;nonlinear control
+system embedding;polynomial equations;constructive system embedding;<peos>;formal methods;bezout identity;formal methods
+optimal control;reachability set;local approximation;<peos>;approximation algorithms;approximation algorithms;variational methods
+universal decomposition;exponential functions;nontrigonometrical polynomials;<peos>;exponential distribution;exponential distribution;exponential function
+fuzzy linear regression;information technology;fuzzy set theory;fuzzy set theory;<peos>;fuzzy sets;fuzzy sets;fuzzy sets
+synchronizing;linear interval systems;linear inequalities;<peos>;robust optimization;synchronizing sequences;synchronizing sequences;minimal sequences;minimal sequences;synchronizing sequences;minimal sequences;synchronizing sequences;minimal sequences;synchronizing sequences
+diagnosis;heat systems;physical defects;<peos>;cybernetics;heat transfer
+fault tolerance;computer aided control;multiversion threshold;computer aided control;<peos>;computer aided diagnosis;fault tolerance;fault tolerance
+nonlockability;multirings;hypercubes;permutation;<peos>;data mining;data mining;data mining
+linear models;multivalued components;vlsi circuits;l level circuit;<peos>;circuit synthesis;multivalued logic;multivalued logic;vlsi testing
+structural identification;<peos>;cybernetics;structural analysis
+best solutions;optimization;finite sets;network reconstruction;<peos>;combinatorial optimization;sequence analysis;sequence analysis
+stabilization;linear object;pulsed signals;pulse frequency modulator;boundedness;<peos>;signal to noise;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal;pulsed signal
+reachability sets;multistep control process;<peos>;cybernetics;multistep methods
+generalized confidence sets;generalized confidence set;generalized confidence sets;<peos>;fuzzy sets;vector estimation;vector quantization
+high end computing;usa;strategic analysis;parallel computing;<peos>;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market modeling;market analysis
+strong active solution;non cooperative games;equilibrium;<peos>;game theory;game theory
+system embedding;reduced observer;matrix equations;<peos>;nonlinear control;multivariable control;multivariable systems;multivariable systems
+linear systems;bounded time interval;singular functions;<peos>;fourier transform;spectral analysis
+quantum computing;solids;<peos>;cybernetics;quantum computing
+privacy;privacy abuse;<peos>;security;privacy;information security
+enterprise;focus;pedagogy;<peos>;curriculum;enterprise architecture;enterprise architecture
+trusted;security;business risk management;security;<peos>;cryptography;trusted computing
+win32;perrun;jpeg;virus affects;<peos>;image processing;image compression;jpeg compression;image compression
+information security;information security;information security;<peos>;information security;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy;information security policy
+security crisis management;security crisis management;<peos>;security;security policy;security policy;security policy;security policy
+information technology;technology managers;technology managers;analytic hierarchy process;goal programming;<peos>;decision support systems;information technology;tangible user;tangible user interfaces;tangible user interfaces;tangible user interfaces
+data storage;consolidation;bankruptcy;<peos>;data mining;data mining;data mining
+performance buildings;technical infrastructure;<peos>;software engineering;industrial manufacturing;performance evaluation;performance evaluation;performance evaluation
+virtual engineering;art platform;distributed engineering;<peos>;computer science education;virtual reality;distributed systems;virtual reality
+post haste;containerization;sorting;spot welding;<peos>;robot;robot control;robotic systems;post haste;cybernetics;artificial intelligence
+condition monitoring;condition monitoring;reliability centered maintenance;<peos>;robot control;robot control;robot control;robot control
+pane;relief;car windshield assembly;<peos>;cybernetics;artificial intelligence
+off line programming;robotic;<peos>;cybernetics;artificial intelligence
+press shop;manufacturing efficiency;competitive advantage;<peos>;supply chain management;supply chain management
+enterprise solutions;discrete manufacturing;consumer goods;<peos>;supply chain management;collaborative design
+extinction;cross sections;t matrix method;curve fitting;<peos>;energy efficiency;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction;extinction
+discrete manufacturing;vertical integration;<peos>;manufacturing;supply chain management;discrete optimization
+beth properties;intuitionistic modal logics;interpolation;<peos>;formal languages;intuitionistic logic;intuitionistic logic
+boolean algebras;free product;ultraproducts;topological density;<peos>;formal methods;homomorphic algebra;homomorphic inequality
+competitiveness;law firms;<peos>;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems
+electronic signatures;e commerce;certification;<peos>;cryptography;legal informatics
+campbell drugs;distress;newspapers;data protection;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+optimisation;web sites;<peos>;cybernetics;web services
+legislation;software;computer implemented inventions;patent laws;<peos>;cybernetics;patent analysis
+cyberobscenity;criminal law;s submission;europe;<peos>;internet;information technology;information technology;information technology;information systems;information security;information security
+e government;modernisation;modernisation;modernisation;transformation;<peos>;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic government;electronic
+vendor qualifications;networking;<peos>;quality of service;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education;it education
+litigation support systems;printing;<peos>;cybernetics;legal informatics
+electronic storage;legal files;electronic media;<peos>;security;information storage;legal databases;legal databases;legal databases
+electronic data exchange;real estate;property industry;<peos>;formal methods;software architecture;electronic databases;electronic databases;electronic databases;electronic databases;electronic databases
+e mail;legal profession;software encryption;<peos>;cryptography;legal informatics;legal informatics
+spam;dea;<peos>;data envelopment analysis;spam indexes;e mail;spam index;web mining
+key tests;technical skills;<peos>;internet;web services;web services;web services
+web strategy;err;<peos>;internet;internet;internet;internet;internet
+medical informatics;prof;man machine interfaces;terminologies;natural language processing;<peos>;medical informatics;distributed systems;medical informatics;distributed computing
+medicine;global solutions;medical informatics;medical informatics;<peos>;medical informatics;global health informatics;global health informatics;global health informatics
+guidelines;internet;personal health;health informatics;<peos>;information technology;information technology;information technology;information technology;information technology;information systems;information systems;information systems;information systems;information systems
+iscsi;poised;iscsi;<peos>;game;game theory
+standard;health checkup data;sgml;hdml;<peos>;medical informatics;health informatics;health informatics;health informatics
+health guidance;lifestyle;weight gain;exercise;health assessment;<peos>;medical informatics;health informatics;health informatics;health informatics
+organization;information technology;information technology;information technology;organizational design;<peos>;information technology;information technology;information technology;information technology;information technology;information technology;information systems
+knowledge based structures;organisational commitment;knowledge management;<peos>;business process management;knowledge based systems;knowledge based systems;knowledge based systems
+information systems;organizations;information systems architecture;internet;<peos>;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems
+enterprise model;enterprise modelling;plug and play;<peos>;decision support systems;decision support systems;decision support systems;decision support systems;decision support systems
+high throughput;zeolite;zeolite;zeolite;<peos>;multi agent systems;templated model;templated model
+variable structure intelligent control;servo motor;state estimation;linear observer;neural network;<peos>;neural network;servo control;variable structure control
+nonlinear modulation;ac power system;differential geometric theory;hvdc system;global linearization;<peos>;nonlinear system;hybrid system;hybrid system;hybrid system
+mobile computing;app competition;<peos>;education;mobile computing;mobile computing;mobile computing
+firewall;card shields data;<peos>;security;security;data security;firewall;data security
+standards;service discovery;jini;universal plug and play;service location;<peos>;wireless networks;mobile computing;mobile computing
+speech input;wearable computing;speech recognition;<peos>;human computer interaction;speech recognition;speech synthesis
+internet services;mobile agents;middleware;<peos>;wireless networks;ubiquitous computing;mobile computing
+context;knowledge workers;electronic whiteboard;<peos>;computer mediated communication;knowledge based systems;knowledge management
+data management;location dependent information services;pervasive computing;<peos>;wireless networks;location dependent service;location dependent service;location dependent services;location dependent services;location dependent services
+privacy control;context aware systems;pervasive computing;<peos>;security;privacy;information theory;privacy;information systems
+context;chat;semantic conflicts;<peos>;security;human factors;context aware computing;context aware computing;context aware;context aware;context aware;ubiquitous computing
+context awareness;decision engine;content adaptation;<peos>;information retrieval;content based retrieval;context aware computing
+context sensitive middleware;pervasive computing;context sensitive middleware;<peos>;ubiquitous computing;reconfigurable computing;context aware computing
+location recognition;wearable sensors;dead reckoning;<peos>;wireless sensor;activity recognition;activity recognition;activity recognition
+<digit> mm conveyor;amhs;performance;<peos>;design;algorithms;performance;performance;performance;performance;performance;performance evaluation;mm mode method;performance evaluation
+mergers;mergers;<peos>;cybernetics;mergers;mergers
+labscape;smart environments;cell biology;ubiquitous computing;<peos>;ubiquitous computing;smart environments;smart environments;ubiquitous computing
+broadcasts;picture intranets;<peos>;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media
+java;portability;cross platform portability;<peos>;software testing;software testing;software testing;software maintenance
+security;security;site management;<peos>;security;security;cryptography;digital signature;digital security;cryptography
+online masquerade;e mail;<peos>;online communities;online communities;online communities
+relativistic constraints;distinguishability;orthogonal quantum states;<peos>;quantum computing;quantum computing
+polymerase chain reaction;dna amplification;dna amplification;fragment analysis;scanning laser;fluorescence avalanche photodiode;<peos>;bioinformatics;dna microarray;dna microarray;dna microarray
+health care;health care;<peos>;medical informatics;health science;medical informatics;medical informatics
+long waves;microstructures;space time modulation;diffraction;<peos>;active absorbing boundary condition;active absorbing coating;active absorbing coating;active absorbing coating;active absorbing coating;active absorbing layer;active absorbing layer;active absorbing layer;active absorbing coating
+house fulfillment;publishing;<peos>;software engineering;software maintenance;software maintenance;software maintenance;software maintenance;software maintenance;software maintenance
+fulfillment;publishing;<peos>;information storage;information retrieval;information storage;information retrieval
+library services;digital library;emerging experience;community sharing;<peos>;library services;library management;instructional design;instructional design;peer to peer;instructional design
+licensing;inter institutional agreement;scholarly publications;<peos>;information management;information management;information management
+electronic site licensing;electronic journals;academic libraries;<peos>;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing;electronic publishing
+caul;consortial purchasing;new zealand;<peos>;decision support;consortial;decision support systems;consortial;decision making;decision support systems;decision making;decision support systems;decision making;decision support systems;decision making;decision support systems;decision making;decision support systems;decision making;decision support systems
+licensing;the netherlands;<peos>;information management;information management;information management;information management
+international library;positive starts;futures;international library consortia;<peos>;library of information;library of information;library of information;library of information;information retrieval;library management;international collaboration;library evolution
+open archives;digital library;oai;interoperability;interoperability;<peos>;software engineering;metadata management;metadata management;metadata management
+content standards;electronic books;publication structure;xml;<peos>;electronic media;information retrieval;electronic books;information retrieval
+fuzzy modeling;generalized conjunction operations;function approximation;membership functions;<peos>;fuzzy sets;fuzzy sets;fuzzy sets
+research libraries;scholarly publishing;<peos>;bibliometrics;project management
+online books;online books;online books;<peos>;electronic books;scholarly communication;online learning;online learning
+digital library;escholarship;scholarly publishing;<peos>;curriculum;library;education
+scholarly publishing;collaborative strategies;<peos>;information retrieval;information science;cscw;collaboration;cscw
+symbiosis;alienation;electronic scholarly communication;electronic publishing;<peos>;information retrieval;information management;information management
+support vector machines;classification;thermal error;<peos>;machine learning;thermal modeling;thermal modeling;thermal modeling
+mutual exclusion;space complexity;<peos>;algorithms;performance;adaptive algorithm;adaptive algorithm;adaptive algorithm
+talking philosophers;computer networks;group mutual exclusion;distributed algorithm;<peos>;fault tolerance;distributed algorithms;fault tolerance
+self stabilization;distributed systems;<peos>;fault tolerance;distributed systems;distributed systems
+wait free test;test;set;finite state analysis;<peos>;reliability;fault tolerance
+fuzzy rule;er models;unsupervised learning;neural networks;<peos>;machine learning;fuzzy logic;fuzzy logic
+microsoft project <digit>;enterprise debut;olap;<peos>;e commerce;web based services;web based services;web based services;web based services;web based services;web based services;web based services;web based services;web based services;web based services;web based services;web based services
+central hub;design assets;collaboration;<peos>;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture;software
+reaching;siteseer;siteseer;raid;clustering;load balancing;<peos>;algorithms;experimentation;web services;web services;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+streaming;accessibility;web accessibility;<peos>;multimedia;user interfaces;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation;blind source separation
+web performance monitoring;big picture;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+usability;usability testing;<peos>;e commerce;online learning;online learning;online learning;online learning
+debugging;web applications;<peos>;software visualization;software visualization;software visualization;software visualization
+c language;pointers;memory management;<peos>;languages;theory;theory;finite element method
+digital collections;usability;user needs;interpreters;<peos>;internet;virtual library;virtual library;virtual library;virtual library;virtual library
+standards;virtual;archival information systems;archival description;<peos>;internet;information retrieval;internet;information retrieval
+learning weights;quasi weighted means;<peos>;machine learning;quasi weighted mean squared error
+virtual collections;digital archives;<peos>;user interface;virtual reality;virtual reality
+union outreach;rejuvenation;archivists;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+ead;archival programs;encoded archival description;archival programs;<peos>;languages;theory;verification;institutional theory;institutional theory
+k <digit> instruction;digital access;archival web;<peos>;education;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media
+archival imagination;david bearman;electronic records;<peos>;electronic media;archival education;electronic media;archival education;electronic media;electronic media;archival education;electronic media;electronic media;archival education;electronic media;electronic media;archival education;electronic media;electronic media;electronic media;archival education
+pattern recognition;molecular surfaces;fuzzy logic;<peos>;molecular modeling;molecular modeling;biomolecular docking;biomolecular docking;biomolecular docking
+pattern recognition;molecular surfaces;electrostatic potential;patch representation;<peos>;molecular modeling;molecular modeling;molecular modeling;molecular modeling
+parallel algorithm;mp2 energy;integral transformation;bin sort;<peos>;parallel computing;canonical energy grid;canonical transformation
+correlations;coordinates;protein folding;<peos>;molecular dynamics;molecular dynamics;molecular dynamics
+genetic algorithm;selection variable selection;subset selection;subset selection;qspr;<peos>;qsar;molecular similarity;molecular similarity
+formal model;computing with words;fuzzy automata;fuzzy automata;<peos>;formal languages;fuzzy logic
+molecular equivalence number;structural features;meqnums;<peos>;molecular recognition;molecular similarity;molecular similarity;molecular similarity;molecular similarity
+neural network;qsar;qspr;bagging;<peos>;machine learning;ensemble learning;ensemble learning
+median partitioning;representative subsets;subset selection;genetic algorithm;<peos>;qsar;molecular similarity;molecular similarity;molecular similarity
+chemical information based scaling;molecular descriptors;topology descriptors;outlier filtering;<peos>;qsar;molecular modeling;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity;molecular similarity
+mtd;mtd;mtd;mtd;qsar;<peos>;drug design;pls regression;pls regression
+ultraviolet;high performance liquid chromatography;hplc;qspr;<peos>;spectroscopy;ultraviolet spectroscopy;ultraviolet spectroscopy
+macrocyclic effect;crown ethers;stability constants;<peos>;dft;molecular electronics;substructural logic
+partial order theory;qsars;partial order theory;solubility;<peos>;qsar;power modeling;power modeling;linear programming
+ze;isomerism;molecular topology;ze isomerism correction;qsar;<peos>;molecular modeling;ze descriptor;topological indices;anticancer drug;molecular modeling;molecular modeling;anticancer drugs;molecular modeling;molecular modeling;anticancer drugs;molecular modeling;molecular modeling;anticancer drugs;molecular modeling;molecular modeling;anticancer drugs
+computer mediated communication;data collection;computer mediated communication;<peos>;education;computer mediated communication;pedagogy;pedagogy
+uncertainty bounds;interval type <digit> fuzzy logic;fuzzy logic system;type reduction;<peos>;interval arithmetic;interval arithmetic;interval type <digit> fuzzy logic system;interval type <digit> fuzzy logic system;interval type <digit> fuzzy logic system;interval type <digit> fuzzy logic system;interval type <digit> fuzzy logic system;interval type <digit>
+entrepreneurs;web case model;education;<peos>;education;web based education;web based education;web based education;project management
+preservice teachers;discomfort;metacognitive skills;<peos>;education;web based education;web based learning;web based learning;web based learning
+recommendations;internet inquiry projects;<peos>;e science;e science;e science
+alien rescue;hypermedia;middle school;problem based learning;<peos>;computer aided learning;hypermedia;interactive learning environments;teaching learning strategies
+project based learning;cajun;project based learning;<peos>;computer mediated communication;project based learning;project based learning;project based learning;project management
+presentation media;information complexity;learning outcomes;multimedia;<peos>;multimedia education;multimedia education;multimedia education;multimedia hypermedia;multimedia hypermedia;multimedia hypermedia;multimedia hypermedia;multimedia hypermedia systems;multimedia hypermedia systems;multimedia hypermedia systems;multimedia hypermedia systems;multimedia hypermedia systems;multimedia hypermedia systems;multimedia hypermedia systems
+tissue characterization;raman spectra;principal component analysis;linear discriminant analysis;principal component analysis;<peos>;spectroscopy;raman spectroscopy;raman spectroscopy
+voice coil;inductance;parameter estimation;linear regression;<peos>;congestion control;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice input;voice
+complexity transitions;global algorithms;sparse linear systems;galois field;rsa;<peos>;cryptography;sparse systems;sparse systems
+noise effect;memory recall;dynamical neural network;hippocampus;<peos>;neural network;synaptic noise;synaptic plasticity
+fuzzy polynomial neural networks;fuzzy neural networks;computational intelligence;gmdh;<peos>;neural network;fuzzy logic;fuzzy logic
+mems;computer disk drive;microactuator;track following control;<peos>;finite element method;mems;mems;s wavelet transform
+nuclear magnetic resonance;molecular photography;spin cluster;<peos>;molecular computing;molecular electronics;molecular electronics
+active noise;headset;vibration control;piezoelectric actuator;<peos>;finite element method;anr control;piezoelectric actuator
+coherence;traffic noise;active noise control;wave theory;mode coupling;<peos>;quality of service;traffic control;traffic control
+remote storage;depository;<peos>;digital library;digital library;digital library;digital library;digital library
+academic libraries;research libraries;<peos>;telecommunications;service oriented programming;service oriented computing
+web;reference questions;<peos>;information retrieval;legal information;legal information;legal knowledge;web mining;legal knowledge;web mining;legal knowledge;web mining;legal knowledge;web mining;legal knowledge;legal knowledge;web mining;legal knowledge;web mining;legal knowledge;web mining;legal
+systems librarianship;librarianship;online catalogs;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+electronic librarianship;job advertisements;electronic services;<peos>;internet;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic media;electronic
+customer;reach;illiad;<peos>;information storage;information retrieval;strategic management;strategic management
+nuvox;staying power;new market;<peos>;finance;power distribution;power distribution;staying power;low power
+qualitative modeling;trapezoid approximation;membership functions;parameter identification;<peos>;finance;sugeno model;sugeno model;sugeno model
+thin client computing;academic libraries;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+academic libraries;community making;public libraries;<peos>;social media;communities of practice;social media;communities of practice;communities of practice;communities of practice;social media;communities of practice;communities of practice;communities of practice;social media;communities of practice;media in education;media in education
+internet search engines;frequency estimates;frequency estimates;<peos>;information retrieval;word frequency analysis;word frequency analysis;linguistic analysis
+word identification;thresholds;turbo pascal;<peos>;combinatorics on words;visual attention;visual attention
+web accessible database;japanese kanji;pronunciation;<peos>;language;pronunciation modeling;pronunciation modeling;pronunciation modeling
+ultrafast display;vesa;register reprogramming;<peos>;computer mediated communication;video on demand;video processing;video conferencing
+keyboard response delay;joystick;response devices;<peos>;human factors;keyboard delay;keyboard delay;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response device;keyboard response
+computer program;operant schedules;<peos>;computer aided education;reinforcement learning;reinforcement learning;reinforcement learning
+homework;quiz;java;feedback;<peos>;education;computer science education;computer science education;computer science education;computer science education
+experimental designs;javascript;world wide web;web experimental design;<peos>;education;web based design;web based design;web based design;web based design;web based design
+fuzzy control;adaptive control;takagi sugeno fuzzy systems;adaptive control;<peos>;adaptive control;neural control;neural network
+demonstrations;psychology;java;active learning;<peos>;human computer interaction;video browsing;video browsing;video browsing;video browsing
+information architecture;internal theory;inductive process;constructive induction;<peos>;conceptual design;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;design methodologies;conceptual design
+information architecture;ia matrix;web portal;<peos>;information management;web based services;web based services;web services;web services
+information architecture;curriculum;information architecture education;information architecture;<peos>;curriculum;pedagogy;information architecture;information systems education;information systems education;information systems education;information systems education;information systems education;information systems education;information systems education;information systems education;information systems education;information systems education;information
+information architecture;jasist;asis;<peos>;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems;information systems
+internet;public library;public library;critical importance;<peos>;internet;information retrieval;public policy;public policy;public policy;public policy
+duality;fractional frequency distributions;convolution;<peos>;finance;fractional calculus;fractional calculus
+relevance;web documents;consensus;digital democracy;linear programming;<peos>;information retrieval;web mining;web search
+inventory;lot size;inflation;shortages;<peos>;inventory;inventory;inventory;inventory
+screening;reliable products;wiener processes;<peos>;reliability;fluorescent lamps;wiener process
+fuzzy c means;extension principle;decomposition theorem;fuzzy arithmetic;<peos>;fuzzy sets;fuzzy numbers
+warranty reserves;nonstationary sales process;nonrenewable free replacement;nonrenewable free replacement;<peos>;supply chain management;stochastic process
+data collection;realbasic;mac;sonified graphs;<peos>;human factors;multimodal interaction;multimodal interaction;multimodal interaction;multimodal interaction
+standards;benchmarking;operating systems;<peos>;performance;measurement;performance;timing analysis;real time systems;timing analysis
+server side program;animations;animation;<peos>;software engineering;program synthesis;program synthesis
+netcloak;server side experiments;web server;common gateway interface;quality control;<peos>;internet;web based programming;web based programming;web based programming
+open courseware;shared knowledge;higher education;learning management system;pedagogy;<peos>;education;teaching;teaching;teaching learning;web based services;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+experiments;javascript;probability;<peos>;languages;theory;web based software;web based software;web based services;web based software;web based services;web based software;web based services;web based software;web based services;web based software;web based services;web based software;web based
+latent semantic analysis;reader strategies;verbal protocols;self explanation;<peos>;computer mediated communication;web based services;web based services;web based services
+personality;internet;morality scale;<peos>;internet;web based services;web based services;web based services;web based services;web based services;web based services
+document level literacy;web site design;<peos>;education;information retrieval;information retrieval;information retrieval
+fuzzy control;multivariable process;error decoupling;feedback control;<peos>;control system;fuzzy control;fuzzy control
+computer security;authentication;password combination;passwords;<peos>;security;usable security;proactive security;proactive security;proactive security;password based security
+data visualization;histograms;glyphs;<peos>;volume visualization;image visualization;image visualization
+mixed effects model;repeated ordinal outcomes;nlmixed;regression;sas;<peos>;ordinal regression;ordinal regression;ordinal regression;ordinal regression
+psychology;laboratory science;internet;<peos>;education;computer science education;computer science education;computer science education
+niche markets;copper;network edge devices;<peos>;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics;economics
+fresh voices;big ideas;ibm internship;internship program;<peos>;bibliometrics;citation analysis
+it projects;big it;<peos>;project management;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project;it project
+image registration;wavelet;simd;<peos>;image processing;parallel processing;parallel processing;parallel processing
+pid control;genetic algorithms;multiobjective optimization;<peos>;multiobjective optimization;multiobjective optimization
+temelin;nuclear power plant;turbogenerator vibrations;<peos>;cybernetics;shadow problem
+ryder cup;ryder cup;game theory;<peos>;game theory;team management;team management
+integer programming;operating room time;<peos>;or in agriculture;or in health services;or in health services;or in health services;or in health services;or in health services;or in health services;or in health services;or in health services;or in health services;or in health services
+business innovation;small businesses;<peos>;cooperative communication;cooperative information;cooperative information;cooperative information;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative learning;cooperative collaborative
+student consulting project;faculty;end user modeling;<peos>;education;education;education;education
+strategic operations;research management;competitive advantage;strategic information systems;<peos>;or in education;strategic planning;strategic planning;strategic planning
+baseball;optimization;world wide web;linear programming;<peos>;internet;e learning;web based game;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+revenue management;software systems;<peos>;software engineering;software architecture;software architecture;software architecture;software architecture;software architecture;software architecture
+lower bounds;information rate;secret sharing scheme;covering;<peos>;cryptography;homogeneous access structure
+quality of service;resource partitioning;simulation;<peos>;quality of service;quality of service;quality of service
+qualitative bond graphs;genetic algorithms;fault diagnosis;fault detection;<peos>;structural analysis;fault diagnosis;fault diagnosis
+routing;torus;interconnection network;<peos>;interconnection network;routing protocols;torus networks
+online algorithm;scheduling;makespan;competitive ratio;<peos>;competitive analysis;online machines;competitive analysis
+retrieval selection;video servers;random duplicated assignment;disk stripping;<peos>;quality of service;video indexing;video indexing
+edit distance;run length encoding;<peos>;graph algorithms;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length encoding;run length
+fault tolerance;hamiltonian laceability;hypercubes;<peos>;interconnection networks;fault tolerance;fault tolerance
+identity based;signature scheme;signature;<peos>;cryptography;identity based cryptography
+operational phase space probability distribution;quantum communication;quantum teleportation;<peos>;quantum communication;quantum channel;quantum channel
+level continuous fuzzy sets;banach spaces;cauchy problem;<peos>;fuzzy sets;fuzzy numbers;fuzzy numbers
+correlation;intuitionistic fuzzy sets;centroid method;interval valued intuitionistic fuzzy sets;correlation coefficient;<peos>;fuzzy sets;correlation analysis;correlation analysis
+neighborhood operator systems;equivalence relation;rough set;rough set;<peos>;fuzzy sets;rough sets;rough sets
+model predictive control;slow temperature control;autotuning;<peos>;nonlinear control;pid control;pid control;pid control
+binary relations;multiplicative error;numerical function;<peos>;cybernetics;numerical analysis
+pretopological;structural analysis;pseudoclosure;minimal closed subsets;<peos>;topology;pretopological analysis;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model;pretopological model
+b sup tree;b sup trees;performance evaluation;<peos>;data mining;batch databases;batch databases;batch databases
+synthetic simultaneity;synthetic simultaneity;<peos>;cybernetics;simultaneity theory
+constraint logic programming;multi agent systems;constraint solving;<peos>;multi agent programming;multi agent systems;multi agent systems
+self organizing;feature maps;sea levels;kohonen networks;<peos>;machine learning;sea level modeling;self organizing map;neural network
+rail grade crossing;decision support system;fra;s objectives;cost benefit analysis;<peos>;or in telecommunications;rail to rail operation;rail to rail operation;rail to rail operation
+meaning;dialogue;travel consultation;information processing;<peos>;natural language processing;dialogue management;dialogue management
+computational model;biological modeling;automata;<peos>;artificial intelligence;cortical modeling;cortical neural networks;cortical neural networks;cortical neural network;autonomous robot;cortical neural network
+nissan;trademark dispute;global internet;<peos>;finance;trademark production;trademark production;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling;trademark modeling
+pid control;frequency domain response;time delay;optimal control;<peos>;pid control;proportional integral derivative control;proportional integral derivative controller;pid control
+internet;libel;<peos>;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
+ballot box;electronic voting;electronic voting;<peos>;computer mediated communication;online communities;online communities
+pen to screen;handheld computers;pen based computing;<peos>;handwriting;handwriting;handwriting recognition;handwriting recognition
+horizontal waypoint guidance;optimal control;lqr;linear quadratic regulator;lyapunov stability;<peos>;robust optimization;horizontal guidance;horizontal guidance;lyapunov function
+tracking;electromagnetic vector sensor;adaptive beamforming;<peos>;wireless sensor;parallel processing;parallel processing;parallel processing
+recursive state estimation;multiple switching model;hybrid systems;markov chain;<peos>;theory;recursive estimation;finite state model;recursive estimation
+matlab;ambiguity functions;<peos>;software engineering;matlab;sparse matrices;matlab software;s box model;s sparse matrix;s sparse matrix;recursive operation;matlab programming;radar education;matlab software;s box model;s sparse matrix;s sparse matrix;recursive operation;matlab programming
+motion control;linear synchronous motor;sliding mode control;permanent magnet;<peos>;nonlinear control;permanent magnet motor;incremental control
+maximum power point tracking;pv system;fuzzy controller;solar cell array;neural network;<peos>;photovoltaic system;fuzzy logic system;fuzzy logic
+pid;s5;isa standard;<peos>;software drawing;dictionary design;p id;p id
+quantitative speed control;srm drive;fuzzy adapted inverse model;degree of freedom;fuzzy control;<peos>;fuzzy control;fuzzy control
+photovoltaic;power inverter;taguchi method;fuzzy controller;<peos>;photovoltaic systems;fuzzy logic;fuzzy logic
+wavelet;linear brushless dc motors;network learning;wavelet neural networks;<peos>;nonlinear control;robust control;wavelet transform
+outlier;matched filtering;maximum likelihood estimation;fast maximum likelihood;<peos>;data mining;outlier detection;outlier resistance
+start up;star trackers;database;charge coupled device;photodetector;<peos>;wireless sensor;brightness control;brightness estimation;attitude control
+adaptive estimation;filter spawning;actuator failures;actuator failures;no failure;<peos>;adaptive filter;adaptive filter;adaptive filter;adaptive filter
+matched filter;template generation;spatial filtering;signal space projection;<peos>;magnetic resonance imaging;fetal magnetic resonance;fetal magnetic resonance imaging
+brain computer interface;high transfer;ssvep;ssvep;<peos>;human computer interaction;brain interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer interface;brain computer
+activation time;inverse algorithm;ecg;<peos>;magnetic resonance imaging;myocardial infarction;gauss newton method
+autoregressive model;biomedical signal analysis;electroencephalogram;<peos>;kalman filter;bayesian inference;bayesian inference
+supervisory control;hybrid systems;fuzzy events detection;hybrid systems theory;fuzzy events detection;<peos>;fuzzy logic;fuzzy logic
+breath detection;long duration signals;artificial neural networks;postprocessing;<peos>;pattern recognition;respiratory system;respiratory system;respiratory system
+model selection;electromagnetic source analysis;vefs;electroencephalogram;goodness of fit;<peos>;electromagnetics;hotelling model
+renal autoregulatory;autoregulation;time frequency;renyi entropy;wavelet transform;<peos>;cardiac arrhythmias;time frequency analysis;time frequency analysis;wavelet transform
+spsa;ecg analysis;cluster analysis;vector quantization;simultaneous perturbation stochastic approximation;<peos>;electrocardiogram;ecg analysis;ecg analysis
+intestinal microflora;computer simulation;simulation;modeling;<peos>;finite element simulation;cellular automata;cellular automata
+conformal mapping;coaxial waveguides;complex cross section;matlab;<peos>;finite element method;coaxial cables;schwarz christoffel diagram
+convolution;global simulation;millimeter wave;photodetector;<peos>;optical communications;photonic crystal;photonic crystal simulation;photonic crystal simulation
+nonuniform transmission lines;differential quadrature method;pade approximation;moment matching;<peos>;reliability;lossy transmission line;lossy transmission lines;differential equations
+finite element time domain;electromagnetic;perfectly matched layers;perfectly matched layers;<peos>;finite element method;finite element method;finite element method
+dram sensing;offset cancellation;sense amplifier;data retention;<peos>;low power;low power;low power design
+insiders;insider buying;telecom industry;<peos>;economics;stock market;stock market;stock market;stock market;stock market
+tuning method;pid controller;genetic algorithm;genetic algorithm;<peos>;evolutionary algorithm;performance evaluation;performance evaluation;genetic algorithm
+<digit> d rendering;mobile personal digital assistant;pda;parallel rendering;<peos>;design;experimentation;low power;low power design;low power design
+digital to analog converter;differential quad switching;dac;<peos>;analog to digital conversion;digital conversion;analog integrated circuits;analog integrated circuits;analog integrated circuits;analog integrated circuits;analog integrated circuits
+phase frequency detectors;gsamples s;phase frequency detectors;<peos>;analog to digital;low power;low power design
+high voltage transistors;flash memories;level shifter;<peos>;analog integrated circuits;high voltage;analog integrated circuits;high voltage circuits;high voltage circuits;high voltage circuits;high voltage circuits;high voltage circuits;high voltage circuits;high voltage circuits;high voltage;analog integrated circuits;analog integrated circuits
+cmos;cache memory;sense wordline bitline;g f sense amplifier;<peos>;low power design;cmos integrated circuits;cmos integrated circuits;cmos integrated circuits;low power design
+spatial relations;inductive logic programming;<peos>;data mining;spatial reasoning;spatial reasoning;horn grammar
+windows xp;user switching;terminal server;<peos>;security;user modeling;user modeling;user centered design;windows xp;user interface;user interface;remote service;remote service;remote service
+reflection;reflection;common language runtime;<peos>;languages;theory;code generation;code generation;code generation;code generation
+obfuscation;intellectual property;reverse engineering;<peos>;software security;software security;software security;software obfuscation;software security
+controller performance;lqg benchmark;closed loop;profit analysis;<peos>;lqg control;subspace matrix;subspace matrix
+spice;damping;dc transfer function;<peos>;reliability;finite element method;lossy source coding
+cad cae;software aids;dc dc power conversion;<peos>;integrated circuit;cad;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam;cad cam
+virtual reality;disability;accessibility;accessibility;<peos>;education;virtual reality;collaborative learning;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction;human computer interaction
+white space;learning;web based instruction;<peos>;education;web based learning;web based learning;web based learning
+electronic telecommunications;computer mediated communications;experimental design;<peos>;telecommunications;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet;internet
