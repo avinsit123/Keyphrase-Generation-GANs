@@ -75,8 +75,8 @@ opt = argparse.Namespace(attn_mode='concat', baseline='self', batch_size=32, bat
 ### kp20k_tg_seperated
 
 devices = "cuda:2"
-alpha = 0.95
-beta = 0.05
+alpha = 1
+beta = 0
 ##### TUNE HYPERPARAMETERS ##############
 hidden_dim = 150
 embedding_dim = 200
@@ -303,23 +303,21 @@ def main():
             avg_rewards.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), clip)
             
-            if total_batch*32 >= 300000 :
-                break
             
             PG_optimizer.step()
 
-            if batch_i%100==0:
+            if batch_i%250==0:
                 print("Saving the file ...............----------->>>>>")        
                 print("The avg reward is",-avg_rewards.item())
                 state_dfs = model.state_dict()
-                torch.save(state_dfs,"RL_Checkpoints/Checkpoint(2_Disc_combined)(300000_samples)" + str(epoch) + ".pth.tar")
+                torch.save(state_dfs,"RL_Checkpoints/Checkpoint(2_Disc_combined)(new_app)" + str(epoch) + ".pth.tar")
      
 
             
         
         print("Saving the file ...............----------->>>>>")        
         state_dfs = model.state_dict()
-        torch.save(state_dfs,"RL_Checkpoints/Checkpoint(2_Disc_combined)(300000_samples)" + str(epoch) + ".pth.tar")
+        torch.save(state_dfs,"RL_Checkpoints/Checkpoint(2_Disc_combined)(new_app)" + str(epoch) + ".pth.tar")
 
 ######################################            
             

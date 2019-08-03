@@ -80,11 +80,18 @@ def train_model(model, optimizer_ml, optimizer_rl, criterion, train_data_loader,
 
             # Checkpoint, decay the learning rate if validation loss stop dropping, apply early stopping if stop decreasing for several epochs.
             # Save the model parameters if the validation loss improved.
-            if total_batch % 4000 == 0:
+            if total_batch % 40 == 0:
                 print("Epoch %d; batch: %d; total batch: %d" % (epoch, batch_i, total_batch))
                 sys.stdout.flush()
+                check_pt_model_path = os.path.join(opt.model_path, '%s.epoch=%d.batch=%d.total_batch=%d' % (
+                opt.exp, epoch, batch_i, total_batch) + '.model')
+                torch.save(  # save model parameters
+                        model.state_dict(),
+                        open(check_pt_model_path, 'wb'))
+                logging.info('Saving checkpoint to %s' % check_pt_model_path)
+                print("Train Loss:",batch_loss_stat.xent())
 
-            if epoch >= opt.start_checkpoint_at:
+            if epoch >= 0:
                 if (opt.checkpoint_interval == -1 and batch_i == len(train_data_loader) - 1) or \
                         (opt.checkpoint_interval > -1 and total_batch > 1 and total_batch % opt.checkpoint_interval == 0):
                     if opt.train_ml:
