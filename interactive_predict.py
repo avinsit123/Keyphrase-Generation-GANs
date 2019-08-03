@@ -17,6 +17,7 @@ def process_opt(opt):
     if torch.cuda.is_available():
         if not opt.gpuid:
             opt.gpuid = 0
+        print("We are on cuda:",opt.gpuid)
         opt.device = torch.device("cuda:%d" % opt.gpuid)
     else:
         opt.device = torch.device("cpu")
@@ -86,6 +87,7 @@ def main(opt):
     #test_one2many = build_dataset(tokenized_train_pairs, word2idx, idx2word, opt, mode="one2many", include_original=True)
     test_one2many = build_interactive_predict_dataset(tokenized_src, word2idx, idx2word, opt, tokenized_title)
     # build the data loader
+    print("test data loaded")
     test_one2many_dataset = KeyphraseDataset(test_one2many, word2idx=word2idx, idx2word=idx2word,
                                              type='one2many', delimiter_type=opt.delimiter_type, load_train=False, remove_src_eos=opt.remove_src_eos, title_guided=opt.title_guided)
     test_loader = DataLoader(dataset=test_one2many_dataset,
@@ -113,6 +115,6 @@ if __name__=='__main__':
     opt = parser.parse_args()
 
     opt = process_opt(opt)
-
+    print("OPT DONE")
     main(opt)
 

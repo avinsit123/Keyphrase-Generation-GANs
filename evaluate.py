@@ -17,7 +17,17 @@ from utils.string_helper import *
 from pykp.reward import sample_list_to_str_2dlist, compute_batch_reward
 
 #stemmer = PorterStemmer()
-
+def remove_duplications(kph):
+    b_set = set(tuple(x) for x in kph)
+    b = [ list(x) for x in b_set ]
+    b.sort(key = lambda x: kph.index(x))
+    return b
+def convert_to_string_list(kph,idx2word):
+    s = []
+    for kps in kph:
+        s.append(idx2word[kps])
+    return s
+        
 def evaluate_loss(data_loader, model, opt):
     model.eval()
     evaluation_loss_sum = 0.0
@@ -37,6 +47,7 @@ def evaluate_loss(data_loader, model, opt):
 
             max_num_oov = max([len(oov) for oov in oov_lists])  # max number of oov for each batch
 
+              
             batch_size = src.size(0)
             n_batch += batch_size
 
@@ -360,6 +371,7 @@ def evaluate_beam_search(generator, one2many_data_loader, opt, delimiter_word='<
                 # pred_seq_list: a list of sequence objects, sorted by scores
                 # oov: a list of oov words
                 pred_str_list = pred['sentences']  # predicted sentences from a single src, a list of list of word, with len=[beam_size, out_seq_len], does not include the final <EOS>
+                #print(pred_str_list)
                 pred_score_list = pred['scores']
                 pred_attn_list = pred['attention']  # a list of FloatTensor[output sequence length, src_len], with len = [n_best]
 
@@ -373,7 +385,12 @@ def evaluate_beam_search(generator, one2many_data_loader, opt, delimiter_word='<
 
                 # output the predicted keyphrases to a file
                 pred_print_out = ''
+                
+                
+                #pred_str_list = remove_duplications(pred_str_list)
+                #print(pred_str_list)
                 for word_list_i, word_list in enumerate(pred_str_list):
+                    word_list = convert_to_string_list(word_list,opt.idx2word)
                     if word_list_i < len(pred_str_list) - 1:
                         pred_print_out += '%s;' % ' '.join(word_list)
                     else:

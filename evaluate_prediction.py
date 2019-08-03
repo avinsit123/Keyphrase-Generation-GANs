@@ -852,6 +852,7 @@ def update_score_dict(trg_token_2dlist_stemmed, pred_token_2dlist_stemmed, k_lis
         compute_classification_metrics_at_ks(is_match, num_predictions, num_targets, k_list=k_list, meng_rui_precision=opt.meng_rui_precision)
 
     # Ranking metrics
+    #print(precision_ks, recall_ks, f1_ks, num_matches_ks)
     ndcg_ks, dcg_ks = ndcg_at_ks(is_match, k_list=k_list, num_trgs=num_targets, method=1, include_dcg=True)
     alpha_ndcg_ks, alpha_dcg_ks = alpha_ndcg_at_ks(is_match_substring_2d, k_list=k_list, method=1,
                                                    alpha=0.5, include_dcg=True)
@@ -1365,6 +1366,7 @@ def report_classification_scores(score_dict, topk_list, present_tag):
     output_str = ""
     result_list = []
     field_list = []
+    print("henlo")
     for topk in topk_list:
         total_predictions_k = sum(score_dict['num_predictions@{}_{}'.format(topk, present_tag)])
         total_targets_k = sum(score_dict['num_targets@{}_{}'.format(topk, present_tag)])
