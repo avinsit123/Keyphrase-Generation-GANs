@@ -45,18 +45,18 @@ import random
 from torch import device 
 from hierarchal_Discriminator import Discriminator
 from torch.nn import functional as F
-from sklearn.metrics import f1_score 
+from sklearn.metrics import f1_score,confusion_matrix
 #####################################################################################################
-opt = argparse.Namespace(attn_mode='concat', baseline='self', batch_size=32, batch_workers=4, bidirectional=True, bridge='copy', checkpoint_interval=4000, copy_attention=True, copy_input_feeding=False, coverage_attn=False, coverage_loss=False, custom_data_filename_suffix=False, custom_vocab_filename_suffix=False, data='data/kp20k_tg_sorted/', data_filename_suffix='', dec_layers=1, decay_method='', decoder_size=300, decoder_type='rnn', delimiter_type=0, delimiter_word='<sep>', device=device(type='cuda', index=3
+opt = argparse.Namespace(attn_mode='concat', baseline='self', batch_size=32, batch_workers=4, bidirectional=True, bridge='copy', checkpoint_interval=4000, copy_attention=True, copy_input_feeding=False, coverage_attn=False, coverage_loss=False, custom_data_filename_suffix=False, custom_vocab_filename_suffix=False, data='data/kp20k_tg_sorted/', data_filename_suffix='', dec_layers=1, decay_method='', decoder_size=300, decoder_type='rnn', delimiter_type=0, delimiter_word='<sep>', device=device(type='cuda', index=2
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ), disable_early_stop_rl=False, dropout=0.1, dynamic_dict=True, early_stop_tolerance=4, enc_layers=1, encoder_size=150, encoder_type='rnn', epochs=20, exp='kp20k.rl.one2many.cat.copy.bi-directional', exp_path='exp/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', final_perturb_std=0, fix_word_vecs_dec=False, fix_word_vecs_enc=False, goal_vector_mode=0, goal_vector_size=16, gpuid=3, init_perturb_std=0, input_feeding=False, lambda_coverage=1, lambda_orthogonal=0.03, lambda_target_encoder=0.03, learning_rate=0.001, learning_rate_decay=0.5, learning_rate_decay_rl=False, learning_rate_rl=5e-05, loss_normalization='tokens', manager_mode=1, match_type='exact', max_grad_norm=1, max_length=60, max_sample_length=6, max_unk_words=1000, mc_rollouts=False, model_path='model/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', must_teacher_forcing=False, num_predictions=1, num_rollouts=3, one2many=True, one2many_mode=1, optim='adam', orthogonal_loss=False, param_init=0.1, perturb_baseline=False, perturb_decay_factor=0.0001, perturb_decay_mode=1, pre_word_vecs_dec=None, pre_word_vecs_enc=None, pretrained_model='model/kp20k.ml.one2many.cat.copy.bi-directional.20190628-114655/kp20k.ml.one2many.cat.copy.bi-directional.epoch=2.batch=54573.total_batch=116000.model', regularization_factor=0.0, regularization_type=0, remove_src_eos=False, replace_unk=True, report_every=10, review_attn=False, reward_shaping=False, reward_type=7, save_model='model', scheduled_sampling=False, scheduled_sampling_batches=10000, seed=9527, separate_present_absent=True, share_embeddings=True, source_representation_queue_size=128, source_representation_sample_size=32, start_checkpoint_at=2, start_decay_at=8, start_epoch=1, target_encoder_size=64, teacher_forcing_ratio=0, timemark='20190701-192604', title_guided=False, topk='G', train_from='', train_ml=False, train_rl=True, truncated_decoder=0, use_target_encoder=False, vocab='data/kp20k_separated/', vocab_filename_suffix='', vocab_size=100002, warmup_steps=4000, word_vec_size=100, words_min_frequency=0)
-devices = "cuda:3"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ), disable_early_stop_rl=False, dropout=0.1, dynamic_dict=True, early_stop_tolerance=4, enc_layers=1, encoder_size=150, encoder_type='rnn', epochs=20, exp='kp20k.rl.one2many.cat.copy.bi-directional', exp_path='exp/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', final_perturb_std=0, fix_word_vecs_dec=False, fix_word_vecs_enc=False, goal_vector_mode=0, goal_vector_size=16, gpuid=3, init_perturb_std=0, input_feeding=False, lambda_coverage=1, lambda_orthogonal=0.03, lambda_target_encoder=0.03, learning_rate=0.001, learning_rate_decay=0.5, learning_rate_decay_rl=False, learning_rate_rl=5e-05, loss_normalization='tokens', manager_mode=1, match_type='exact', max_grad_norm=1, max_length=60, max_sample_length=6, max_unk_words=1000, mc_rollouts=False, model_path='model/kp20k.rl.one2many.cat.copy.bi-directional.20190701-192604', must_teacher_forcing=False, num_predictions=1, num_rollouts=3, one2many=True, one2many_mode=1, optim='adam', orthogonal_loss=False, param_init=0.1, perturb_baseline=False, perturb_decay_factor=0.0001, perturb_decay_mode=1, pre_word_vecs_dec=None, pre_word_vecs_enc=None, pretrained_model='model/kp20k.ml.one2many.cat.copy.bi-directional.20190628-114655/kp20k.ml.one2many.cat.copy.bi-directional.epoch=2.batch=54573.total_batch=116000.model', regularization_factor=0.0, regularization_type=0, remove_src_eos=False, replace_unk=True, report_every=10, review_attn=False, reward_shaping=False, reward_type=7, save_model='model', scheduled_sampling=False, scheduled_sampling_batches=10000, seed=9527, separate_present_absent=True, share_embeddings=True, source_representation_queue_size=128, source_representation_sample_size=32, start_checkpoint_at=2, start_decay_at=8, start_epoch=1, target_encoder_size=64, teacher_forcing_ratio=0, timemark='20190701-192604', title_guided=False, topk='G', train_from='', train_ml=False, train_rl=True, truncated_decoder=0, use_target_encoder=False, vocab='data/kp20k_separated', vocab_filename_suffix='', vocab_size=100002, warmup_steps=4000, word_vec_size=100, words_min_frequency=0)
+devices = "cuda:2"
             
 ##### TUNE HYPERPARAMETERS ##############
 hidden_dim = 150
 embedding_dim = 200
 n_layers = 2 
-threshold = 0.3
+threshold = 0.27
 ##  batch_reward_stat, log_selected_token_dist = train_one_batch(batch, generator, optimizer_rl, opt, perturb_std)
 #########################################################
 def train_one_batch(D_model,one2many_batch, generator, opt,perturb_std):
@@ -216,7 +216,7 @@ def main():
     perturb_decay_mode = opt.perturb_decay_mode
     
     D_model = Discriminator(opt.vocab_size,embedding_dim,hidden_dim,n_layers,opt.word2idx[pykp.io.PAD_WORD])
-    D_model.load_state_dict(torch.load("Discriminator_checkpts/hierarchal_Dis_3.pth.tar"))
+    D_model.load_state_dict(torch.load("Discriminator_checkpts/hierarchal_attention_Dis1_0.pth.tar"))
   
     print("The Discriminator statistics are ",D_model)
     
@@ -232,6 +232,7 @@ def main():
         isdone = False
         f1_true,f1_false = 0,0
         total_batch = 0
+        tns , fps , fns , tps = 0,0,0,0
         print("Starting with epoch:",epoch)
         for batch_i, batch in enumerate(train_data_loader):
             total_batch+=1
@@ -248,16 +249,21 @@ def main():
             real_r,fake_r = train_one_batch(D_model,batch,generator,opt,perturb_std)
             real_size =  len(real_r)
             fake_size = len(fake_r)
-            true_real_rewards,true_fake_rewards = np.ones(real_size),np.ones(fake_size)
+            total_true_rewards = np.concatenate((np.ones(real_size),np.zeros(fake_size)))
             total_real_rewards = np.where(real_r.cpu().detach().numpy() > threshold,1,0)
             total_fake_rewards = np.where(fake_r.cpu().detach().numpy() > threshold,1,0)
-            f1_true += f1_score(true_real_rewards,total_real_rewards)
-            f1_false += f1_score(true_fake_rewards,total_fake_rewards)
-            print(f1_true/(batch_i+1),f1_false/(batch_i+1)) 
-            if isdone:
-                break
-        if isdone:
-            break
+            total_predicted_rewards = np.concatenate((total_real_rewards,total_fake_rewards))
+            f1_true += f1_score(total_true_rewards,total_predicted_rewards)
+            tn, fp, fn, tp = confusion_matrix(total_true_rewards,total_predicted_rewards).ravel()
+            tns+=tn 
+            fps+=fp
+            fns+=fn
+            tps+=tp
+            if batch_i % 10 == 0:
+                print(tns, fps, fns, tps)
+                if batch_i / 40 == 1:
+                    sys.exit()
+            print(f1_true/(batch_i+1)) 
 ######################################            
             
         

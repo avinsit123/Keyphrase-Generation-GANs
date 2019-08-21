@@ -204,7 +204,7 @@ class S_RNN(nn.Module):
  #   real_labels = torch.from_numpy(np.random.uniform(0.7, 1.2, size=(BATCH_SIZE))).float().to(DEVICE)
 
         
-devices = "cuda:3"
+devices = "cuda:2"
 
         
         
@@ -291,7 +291,7 @@ class Discriminator(S_RNN):
         return avg_outputs,loss
     
     def calc_keyphrase_score(self,inp,start_len,len_list):
-        severed_inputs = torch.Tensor([]).to("cuda:3")
+        severed_inputs = torch.Tensor([]).to(devices)
         x = inp
         x = x.permute(1,0,2)
         x,hidden = self.MegaRNN(x)

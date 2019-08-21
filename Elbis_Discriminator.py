@@ -204,7 +204,7 @@ class S_RNN(nn.Module):
  #   real_labels = torch.from_numpy(np.random.uniform(0.7, 1.2, size=(BATCH_SIZE))).float().to(DEVICE)
 
         
-devices = "cuda:3"
+devices = "cuda:2"
 
         
         
@@ -233,9 +233,7 @@ class Discriminator(S_RNN):
         
         
     def padded_all(self,target,total_kphs,pad_id):
-        #target =  [[1,2,3], [2,4,5,6], [2,4,6,7,8]]
         max_cols = max([len(row) for row in target])
-        #print(max_cols)
         max_rows = total_kphs
         padded = [batch + [pad_id] * (max_rows - len(batch)) for batch in target]
         padded = torch.tensor([row + [pad_id] * (max_cols - len(row)) for row in padded])
