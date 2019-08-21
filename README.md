@@ -2,7 +2,7 @@
 Contains code for generating key phrases using GANs
 
 ## Instructions 
-Download the following <a href="https://drive.google.com/drive/folders/1YIJOAAR8rK8oiAfPK-5aJwgwlmw0uie_?usp=sharing"> data folder </a> and <a href="https://drive.google.com/drive/folders/1jGLB30qPVh7q-ozbSL5ye_ZLtj5jfDiy?usp=sharing-"> Model checkpoints folder </a> and unzip it and insert it in this repo in your local system.The Data Folder contains around 2000 samples from the kp20k data folder . In order to train the Discriminator run hierarchal_attention_Discriminator_training.py . All the Discriminator checkpoints will be created in the folder Discriminator_checkpts . You can test the strength of the Dicriminator by running hierarchal_attention_Discriminator_training_f1score.py . Currently the program supports running on cpu.In order to run it on device of your choice change the devices variable in each python file
+Download the following <a href="https://drive.google.com/drive/folders/1YIJOAAR8rK8oiAfPK-5aJwgwlmw0uie_?usp=sharing"> data folder </a> and <a href="https://drive.google.com/drive/folders/1jGLB30qPVh7q-ozbSL5ye_ZLtj5jfDiy?usp=sharing-"> Model checkpoints folder </a> and unzip it and insert it in this repo in your local system.The Data Folder contains around 2000 samples from the kp20k data folder . In order to train the Discriminator run hierarchal_attention_Discriminator_training.py . All the Discriminator checkpoints will be created in the folder Discriminator_checkpts . You can test the strength of the Dicriminator by running hierarchal_attention_Discriminator_training_f1score.py . Currently the program supports running on cpu . In order to run it on device of your choice change the devices variable in each python file
 
 
 <ol>
